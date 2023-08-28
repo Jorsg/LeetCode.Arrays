@@ -21,8 +21,11 @@ public class Program
 		//foreach (var matrix in newMatrix) Console.WriteLine(matrix);
 		//ArrayInsertions.InserEndArray();
 		//ArrayInsertions.InsertSrtarArray();
-		int[] arr = {1, 0, 2, 3, 0, 4, 5, 0};
-		ArrayInsertions.DuplicateZeros(arr);
+		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
+		int[] arr2 = { 2, 5, 6 };
+		int m = 3, n = 3;
+		//ArrayInsertions.Merge(arr1, m, arr2, n);
+		ArrayDelete.DeletinAnyWhereArray();
 
 
 
