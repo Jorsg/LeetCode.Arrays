@@ -13,42 +13,20 @@ public class Program
 
 		//foreach (var dvd in dvdCollection) Console.WriteLine(dvd.toStrinPrint());
 
-		int[] nums = { 123, 1222, 0, 13, 123, 122222 };
-		Console.WriteLine(FindNumbers(nums));
+		//int[] nums = { -4, -1, 0, 3, 10 };
+
+		//Console.WriteLine(Arrays.FindMaxConsecutiveOnes(nums));
+		//Console.WriteLine(Arrays.FindNumbers(nums));
+		//int[] newMatrix = Arrays.SortedSquares(nums);
+		//foreach (var matrix in newMatrix) Console.WriteLine(matrix);
+		//ArrayInsertions.InserEndArray();
+		//ArrayInsertions.InsertSrtarArray();
+		int[] arr = {1, 0, 2, 3, 0, 4, 5, 0};
+		ArrayInsertions.DuplicateZeros(arr);
+
 
 
 
 	}
 
-	//Given a binary array nums, return the maximum number of consecutive 1's in the array.
-	public static int FindMaxConsecutiveOnes(int[] nums)
-	{
-		int maxCount = 0;
-		int count = 0;
-		for (int i = 0; i < nums.Length; i++)
-		{
-			if (nums[i] == 1)
-				count++;
-			else
-			{
-				maxCount = Math.Max(maxCount, count);
-				count = 0;
-			}
-		}
-		return Math.Max(maxCount, count);
-	}
-
-	//Find Numbers with Even Number of Digits
-	//Given an array nums of integers, return how many of them contain an even number of digits.
-	public static int FindNumbers(int[] nums)
-	{
-		int count = 0;
-		for (int i = 0; i < nums.Length; i++)
-		{
-
-			if ((nums[i].ToString().Length % 2) == 0)
-				count++;
-		}
-		return count;
-	}
 }
