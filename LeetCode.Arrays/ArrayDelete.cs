@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Channels;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace LeetCode.Arrays
 {
@@ -45,7 +47,7 @@ namespace LeetCode.Arrays
 			Console.WriteLine("Array after deletion " + string.Join(", ", newArray));
 		}
 
-		//Deleting From the Start of an Array
+		//Deleting From the Anywhere in the Array
 		public static void DeletinAnyWhereArray()
 		{
 			int[] nums = { 10, 20, 30, 40, 50 };
@@ -59,7 +61,7 @@ namespace LeetCode.Arrays
 				if (i != indexToDelete)// si la posicion i es diferente del indice a eliminar, se llena el nuevo array
 				{
 					newArray[newIndex] = nums[i];
-					newIndex++;
+					newIndex++; //incrementa los indeces del array
 				}
 			}
 			Console.WriteLine("Original array " + string.Join(", ", nums));
@@ -67,10 +69,39 @@ namespace LeetCode.Arrays
 		}
 
 		//Remove Element
+		//Given an integer array nums and an integer val, remove all occurrences of val in nums in-place.The order of the elements may be changed.Then return the number of elements in nums which are not equal to val.
 		public static int RemoveElement(int[] nums, int val)
 		{
+			int[] newArray = new int[nums.Length];
+			int newIndex = 0;
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (nums[i] != val)
+				{
+					newArray[newIndex] = nums[i];
+					newIndex++;
+				}
+			}
+			return (newIndex);
 
-			return 0;
 		}
+
+		//Remove Duplicates from Sorted Array
+		//Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
+		public static int RemoveDuplicates(int[] nums)
+		{
+			int noDuplicate = 0;
+
+			for (int i = 1; i < nums.Length; i++)
+			{
+				if (nums[noDuplicate] != nums[i])
+				{
+					nums[noDuplicate + 1] = nums[i];
+					noDuplicate++;
+				}
+			}
+			return ++noDuplicate;
+		}
+
 	}
 }
