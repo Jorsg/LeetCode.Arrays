@@ -24,11 +24,12 @@ public class Program
 		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
-		int[] nums = { 1, 1, 2 };
+		int[] nums = {3,1,7,11 };
 		int val = 3;
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
 		//Console.WriteLine(ArrayDelete.RemoveDuplicates(nums));
+		Console.WriteLine(SearchArray.CheckIfExist(nums));
 
 
 
