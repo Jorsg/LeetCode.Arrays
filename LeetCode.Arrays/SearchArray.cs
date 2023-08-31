@@ -41,5 +41,16 @@ namespace LeetCode.Arrays
 			}
 			return false;
 		}
+
+		// Valid Mountain Array
+		//Given an array of integers arr, return true if and only if it is a valid mountain array.
+		public static bool ValidMountainArray(int[] arr)
+		{
+			int len = arr.Length, left = 0, right = len - 1;
+
+			while (left + 1 < len && arr[left] < arr[left + 1]) left++;
+			while (right - 1 > -1 && arr[right - 1] > arr[right]) right--;
+			return (left == right && left != 0 && right != len - 1);
+		}
 	}
 }

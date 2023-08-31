@@ -102,6 +102,5 @@ namespace LeetCode.Arrays
 			}
 			return ++noDuplicate;
 		}
-
 	}
 }
