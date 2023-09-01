@@ -121,5 +121,75 @@ namespace LeetCode.Arrays
 			}
 			return result;
 		}
+
+		//Move Zeros
+		//Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+		public static int[] MoveZeros(int[] nums)
+		{
+			int zeros = 0;
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (nums[i] == 0)
+					zeros++;
+				else if (zeros > 0)
+				{
+					nums[i - zeros] = nums[i];
+				}
+			}
+			for (int i = nums.Length - zeros; i < nums.Length; i++)
+			{
+				nums[i] = 0;
+			}
+			return nums;
+		}
+
+		//Sort Array By Parity
+		//Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
+		public static int[] SortArrayByParity(int[] nums)
+		{
+
+			//Runtime: 151 ms
+			//Memory Usage: 47 MB
+
+			int oddNumbers = 0;
+			int[] result = new int[nums.Length];
+
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (nums[i] % 2 == 0)
+					result[oddNumbers++] = nums[i];
+			}
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (nums[i] % 2 == 1)
+					result[oddNumbers++] = nums[i];
+			}
+			return result;
+
+
+			//RunTime: 114 ms
+			//Memory Usage: 47MB
+
+			//ushort pivotIndex = 0; 
+
+			//for (ushort i = 0; i < nums.Length; i++)
+			//{
+			//	if (nums[pivotIndex] % 2 == 0)
+			//	{
+			//		pivotIndex++;
+			//		continue;
+			//	}
+
+			//	if (nums[i] % 2 == 0)
+			//	{
+			//		var temp = nums[pivotIndex];
+			//		nums[pivotIndex] = nums[i];
+			//		nums[i] = temp;
+			//		pivotIndex++;
+			//	}
+			//}
+
+			//return nums;
+		}
 	}
 }

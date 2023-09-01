@@ -24,7 +24,7 @@ public class Program
 		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
-		int[] nums = { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
+		int[] nums = { 3, 1, 2, 4 };
 		int val = 3;
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
@@ -34,8 +34,10 @@ public class Program
 		//int[] squared = InPlaceArray.ReplaceElements(nums);
 		//foreach (int i in squared)	Console.WriteLine(i);
 		//Console.WriteLine(InPlaceArray.removeDuplicates(nums));
-		int[] result = InPlaceArray.copyWithRemovedDuplicates(nums);
-		foreach(int i in result)Console.WriteLine(i);
+		//int[] result = InPlaceArray.MoveZeros(nums);
+		//foreach(int i in result)Console.WriteLine(i);
+		int[] result = InPlaceArray.SortArrayByParity(nums);
+		foreach (int i in result) Console.WriteLine(i);
 
 
 

@@ -72,6 +72,10 @@ namespace LeetCode.Arrays
 		//Given an integer array nums and an integer val, remove all occurrences of val in nums in-place.The order of the elements may be changed.Then return the number of elements in nums which are not equal to val.
 		public static int RemoveElement(int[] nums, int val)
 		{
+
+			//Runtime: 120 ms
+			//Memory Usage: 42.9MB
+
 			int[] newArray = new int[nums.Length];
 			int newIndex = 0;
 			for (int i = 0; i < nums.Length; i++)
