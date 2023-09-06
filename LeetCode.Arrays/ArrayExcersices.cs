@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization.Formatters;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace LeetCode.Arrays
 {
@@ -82,6 +84,7 @@ namespace LeetCode.Arrays
 
 			//Runtime: 90 ms
 			//Memory Usage: 39.5 MB
+			//answer LeetCode
 			long first = long.MinValue, second = long.MinValue, third = long.MinValue;
 
 			foreach (var num in nums)
@@ -100,14 +103,117 @@ namespace LeetCode.Arrays
 					third = second;
 					second = num;
 				}
-				else if (num> third)
+				else if (num > third)
 				{
 					third = num;
 				}
 			}
 
-			return (int)(third == long.MinValue ? first :  third);
+			return (int)(third == long.MinValue ? first : third);
 		}
 
+		//Find All Numbers Disappeared in an Array
+		//Given an array nums of n integers where nums[i] is in the range [1, n], return an array of all the integers in the range [1, n] that do not appear in nums.
+		public static IList<int> FindDisappearedNumbers(int[] nums)
+		{
+			//Runtime:  1715  ms no es eficiente la soluacion
+			//Memory Usage: 55.3 MB
+			IList<int> result = new List<int>();
+			int num = 1;
+			Array.Sort(nums);
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (!nums.Contains(num))
+					result.Add(num);
+
+				num++;
+			}
+
+			return result;
+
+			// Runtime: 205 ms
+			//Memory Usage: 53.5 MB
+			//return Enumerable.Range(1, nums.Length).ToHashSet().Except(nums).ToList();
+
+
+
+			// Runtime: 162 ms muy eficiente la solucion
+			// Otra forma de resolver el problema usando un metodo swap
+			//	int n = nums.Length;
+			//	for (int i = 0; i < n; i++)
+			//	{
+			//		int expecting = i + 1;
+			//		while (nums[i] != expecting)
+			//		{
+			//			int j = nums[i] - 1;
+			//			if (nums[j] == nums[i]) break;
+			//			swap(nums, i, j);
+			//		}
+			//	}
+
+			//	List<int> missing = new List<int>();
+			//	for (int i = 0; i < n; i++)
+			//	{
+			//		int expecting = i + 1;
+			//		int actual = nums[i];
+			//		if (actual != expecting) missing.Add(expecting);
+			//	}
+			//	return missing;
+			//}
+
+			//private void swap(int[] nums, int i, int j)
+			//{
+			//	int temp = nums[i];
+			//	nums[i] = nums[j];
+			//	nums[j] = temp;
+			//}
+		}
+
+		//Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
+		//A zero-based permutation nums is an array of distinct integers from 0 to nums.length - 1 (inclusive).
+		//Example 1:
+		//Input: nums = [0,2,1,5,3,4]
+		//Output: [0,1,2,4,5,3]
+		//Explanation: The array ans is built as follows:
+		//ans = [nums[nums[0]], nums[nums[1]], nums[nums[2]], nums[nums[3]], nums[nums[4]], nums[nums[5]]]
+		// = [nums[0], nums[2], nums[1], nums[5], nums[3], nums[4]]
+		// = [0,1,2,4,5,3]
+		public static int[] BuildArray(int[] nums)
+		{
+
+			//Runtime: 130ms Beats 93.13%of users with C#
+			//Memory: 50.22MB Beats 17.46 % of users with C#
+			int[] result = new int[nums.Length];
+
+			for (int i = 0; i < nums.Length; i++)
+			{
+				result[i] = nums[nums[i]];
+			}
+			return result;
+		}
+
+
+		//Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed).
+		//Specifically, ans is the concatenation of two nums arrays. Return the array ans.
+		//Example 1:
+		// Input: nums = [1,2,1]
+		//Output: [1,2,1,1,2,1]
+		//Explanation: The array ans is formed as follows:
+		//- ans = [nums[0],nums[1],nums[2],nums[0],nums[1],nums[2]]
+		//- ans = [1,2,1,1,2,1]
+		public static int[] GetConcatenation(int[] nums)
+		{
+			//Runtime : 136 ms Beats 65.05 % of users with C#
+			//Memory: 47.72MB Beats 95.33 % of users with C#
+
+			int n = nums.Length * 2;
+			int[] result = new int[n];
+			for (int i = 0; i < nums.Length; i++)
+			{
+				result[i] = nums[i];
+				result[i + nums.Length] = nums[i];
+			}			
+			return result;
+		}
 	}
 }
