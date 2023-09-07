@@ -31,22 +31,22 @@ namespace LeetCode.LinkedList
 
 			while (curr != null && index > 0)
 			{
-				curr = curr.Next;
+				curr = curr.next;
 				index--;
 			}
 
-			return curr == null ? -1 : curr.Val;
+			return curr == null ? -1 : curr.val;
 		}
 
 		public void AddAtHead(int val)
 		{
-			_head = new ListNode() { Val = val, Next = _head };
+			_head = new ListNode() { val = val, next = _head };
 			_count++;
 		}
 
 		public void AddAtTail(int val)
 		{
-			var node = new ListNode() { Val = val };
+			var node = new ListNode() { val = val };
 
 			if (_head == null)
 				_head = node;
@@ -54,10 +54,10 @@ namespace LeetCode.LinkedList
 			{
 				var curr = _head;
 
-				while (curr.Next != null)
-					curr = curr.Next;
+				while (curr.next != null)
+					curr = curr.next;
 
-				curr.Next = node;
+				curr.next = node;
 			}
 			_count++;
 		}
@@ -77,12 +77,12 @@ namespace LeetCode.LinkedList
 
 				while (curr != null && index - 1 > 0)
 				{
-					curr = curr.Next;
+					curr = curr.next;
 					index--;
 				}
 
-				var temp = curr.Next;
-				curr.Next = new ListNode() { Val = val, Next = temp };
+				var temp = curr.next;
+				curr.next = new ListNode() { val = val, next = temp };
 			}
 
 			_count++;
@@ -93,7 +93,7 @@ namespace LeetCode.LinkedList
 			if (index >= _count || index < 0 || _count == 0) return;
 
 			if (index == 0)
-				_head = _head.Next;
+				_head = _head.next;
 			else
 			{
 				//int i = 0;
@@ -101,11 +101,11 @@ namespace LeetCode.LinkedList
 
 				while (curr != null && index - 1 > 0)
 				{
-					curr = curr.Next;
+					curr = curr.next;
 					index--;
 				}
 
-				curr.Next = curr.Next?.Next;
+				curr.next = curr.next?.next;
 			}
 
 			_count--;

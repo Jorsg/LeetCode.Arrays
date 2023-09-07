@@ -42,9 +42,9 @@ namespace LeetCode.Arrays
 			return false;
 		}
 
-		// Valid Mountain Array
+		// valid Mountain Array
 		//Given an array of integers arr, return true if and only if it is a valid mountain array.
-		public static bool ValidMountainArray(int[] arr)
+		public static bool validMountainArray(int[] arr)
 		{
 			int len = arr.Length, left = 0, right = len - 1;
 
