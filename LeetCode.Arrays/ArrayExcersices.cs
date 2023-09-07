@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Runtime.Serialization.Formatters;
 using System.Text;
@@ -212,7 +213,68 @@ namespace LeetCode.Arrays
 			{
 				result[i] = nums[i];
 				result[i + nums.Length] = nums[i];
-			}			
+			}
+			return result;
+		}
+
+		//Final Value of Variable After Performing Operations
+		//There is a programming language with only four operations and one variable X:
+		//++X and X++ increments the value of the variable X by 1.
+		//--X and X-- decrements the value of the variable X by 1.
+		//Initially, the value of X is 0.
+		//Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
+
+		public static int FinalValueAfterOperations(string[] operations)
+		{
+			//Runtime : 63 ms
+			//Memory : 40.28MB
+			int x = 0;
+			for (int i = 0; i < operations.Length; i++)
+			{
+				if (operations[i] == "--X" || operations[i] == "X--")
+				{
+					x--;
+
+				}
+				else if (operations[i] == "++X" || operations[i] == "X++")
+				{
+					x++;
+				}
+			}
+			return x;
+		}
+
+		//1470. Shuffle the Array
+		//Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
+		//Return the array in the form[x1, y1, x2, y2, ..., xn, yn].
+
+		//Example 1:
+
+		//Input: nums = [2,5,1,3,4,7], n = 3
+		//Output: [2,3,5,4,1,7]
+		//Explanation: Since x1 = 2, x2 = 5, x3 = 1, y1 = 3, y2 = 4, y3 = 7 then the answer is [2,3,5,4,1,7].
+
+		//Example 2:
+
+		//Input: nums = [1,2,3,4,4,3,2,1], n = 4
+		//Output: [1,4,2,3,3,2,4,1]
+
+		//Example 3:
+
+		//Input: nums = [1,1,2,2], n = 2
+		//Output: [1,2,1,2]
+
+		public static int[] Shuffle(int[] nums, int n)
+		{
+			//Runtime: 136
+			// Memory: 45.02MB
+			int[] result = new int[n * 2];
+			for (int i = 0; i < n; i++)
+			{
+				result[2 * i] = nums[i];
+				result[(2 * i) + 1] = nums[i + n];
+			}
+
 			return result;
 		}
 	}

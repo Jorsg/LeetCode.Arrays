@@ -24,13 +24,15 @@ public class Program
 		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
-		int[] nums = { 1, 2, 1 };
+		int[] nums = { 2, 5, 1, 3, 4, 7 };
 		int val = 3;
+		
+		string[] operation = { "--X", "X++", "X++" };
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
 		//Console.WriteLine(ArrayDelete.RemoveDuplicates(nums));
 		//Console.WriteLine(SearchArray.CheckIfExist(nums));
-		//Console.WriteLine(SearchArray.ValidMountainArray(nums));
+		//Console.WriteLine(SearchArray.validMountainArray(nums));
 		//int[] squared = InPlaceArray.ReplaceElements(nums);
 		//foreach (int i in squared)	Console.WriteLine(i);
 		//Console.WriteLine(InPlaceArray.removeDuplicates(nums));
@@ -42,8 +44,11 @@ public class Program
 		//Console.WriteLine(ArrayExcersices.ThirdMax(nums));
 		//IList<int> list = ArrayExcersices.FindDisappearedNumbers(nums);
 		//int[] result = ArrayExcersices.BuildArray(nums);
-		int[] result = ArrayExcersices.GetConcatenation(nums);
-		foreach (var i in result) Console.WriteLine(i);
+		//int[] result = ArrayExcersices.GetConcatenation(nums);
+		 int[] result = ArrayExcersices.Shuffle(nums, n);
+		 foreach (var i in result) Console.WriteLine(i);
+		//Console.WriteLine(ArrayExcersices.FinalValueAfterOperations(operation));
+		
 
 
 
