@@ -24,8 +24,8 @@ public class Program
 		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
-		int[] nums = { 2, 5, 1, 3, 4, 7 };
-		int val = 3;
+		int[] nums = { 5, 1, 4, 2, 2 };
+		int val = 6;
 		
 		string[] operation = { "--X", "X++", "X++" };
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
@@ -45,8 +45,9 @@ public class Program
 		//IList<int> list = ArrayExcersices.FindDisappearedNumbers(nums);
 		//int[] result = ArrayExcersices.BuildArray(nums);
 		//int[] result = ArrayExcersices.GetConcatenation(nums);
-		 int[] result = ArrayExcersices.Shuffle(nums, n);
-		 foreach (var i in result) Console.WriteLine(i);
+		// int[] result = ArrayExcersices.Shuffle(nums, n);
+		int result = ArrayPracticExcersice.NumberOfEmployeesWhoMetTarget(nums, val);
+		 //foreach (var i in result) Console.WriteLine(i);
 		//Console.WriteLine(ArrayExcersices.FinalValueAfterOperations(operation));
 		
 

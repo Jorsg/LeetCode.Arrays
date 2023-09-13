@@ -50,6 +50,7 @@ namespace LeetCode.LinkedList
 		}
 
 
+		//Linked List Cycle II
 		//Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
 		//There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to (0-indexed). It is -1 if there is no cycle. Note that pos is not passed as a parameter.
 		//Do not modify the linked list.
@@ -79,5 +80,36 @@ namespace LeetCode.LinkedList
 
 			return null;
 		}
+
+
+		//Remove Nth Node From End of List
+		//Given the head of a linked list, remove the nth node from the end of the list and return its head.
+		public ListNode RemoveNthFromEnd(ListNode head, int n)
+		{
+
+			//Runtime : 81 ms
+			//Memory : 38.82
+
+			ListNode currentNode = head;
+			for (int i = 0; i < n; i++)
+			{
+				currentNode = currentNode.next;
+			}
+			if (currentNode == null)
+			{
+				return head.next;
+			}
+			ListNode nodoBeforeRemoved = head;
+			while (currentNode.next != null)
+			{
+				currentNode = currentNode.next;
+				nodoBeforeRemoved = nodoBeforeRemoved.next;
+			}
+			nodoBeforeRemoved.next = nodoBeforeRemoved.next.next;
+
+			return head;
+		}
+
+		
 	}
 }
