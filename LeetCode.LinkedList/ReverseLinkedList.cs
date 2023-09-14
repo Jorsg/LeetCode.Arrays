@@ -19,10 +19,10 @@ namespace LeetCode.LinkedList
 			ListNode currentNode = head;
 			while (currentNode != null)
 			{
-				ListNode nextiNode = currentNode.next;// Swap
+				ListNode tempNod = currentNode.next;// Swap
 				currentNode.next = previNode;
 				previNode = currentNode;
-				currentNode = nextiNode;
+				currentNode = tempNod;
 			}
 
 			return previNode;

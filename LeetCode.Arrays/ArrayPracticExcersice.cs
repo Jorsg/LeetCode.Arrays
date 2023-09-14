@@ -40,12 +40,36 @@ namespace LeetCode.Arrays
 		public static int NumberOfEmployeesWhoMetTarget(int[] hours, int target)
 		{
 			//Runtime: 86 ms
-			//Memory: 40.53 MB
+			//Memory: 40.53 MB3333333
 			int ans = 0;
 			for (int i = 0; i < hours.Length; i++)
 			{
 				if (hours[i] >= target)
 					ans++;				
+			}
+			return ans;
+		}
+
+
+		//1431. Kids With the Greatest Number of Candies
+		//There are n kids with candies. You are given an integer array candies, where each candies[i] represents the number of candies the ith kid has, and an integer extraCandies, denoting the number of extra candies that you have.
+		//Return a boolean array result of length n, where result[i] is true if, after giving the ith kid all the extraCandies, they will have the greatest number of candies among all the kids, or false otherwise.
+		//Note that multiple kids can have the greatest number of candies.
+
+		//Input: candies = [2,3,5,1,3], extraCandies = 3
+		//Output: [true,true,true,false,true]
+		public static IList<bool> KidsWithCandies(int[] candies, int extraCandies)
+		{
+			IList<bool> ans = new List<bool>();
+			int maxCand = 0;
+
+			for (int i = 0; i < candies.Length; i++)
+			{
+				maxCand = Math.Max(candies[i], maxCand);
+			}
+			for (int i = 0; i < candies.Length; i++)
+			{
+				ans.Add(candies[i] + extraCandies >= maxCand);
 			}
 			return ans;
 		}
