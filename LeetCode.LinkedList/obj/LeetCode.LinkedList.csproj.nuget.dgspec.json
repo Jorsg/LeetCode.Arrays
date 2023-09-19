@@ -43,6 +43,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Collections.NonGeneric": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Collections.Specialized": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

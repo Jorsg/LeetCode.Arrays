@@ -45,7 +45,7 @@ namespace LeetCode.Arrays
 			for (int i = 0; i < hours.Length; i++)
 			{
 				if (hours[i] >= target)
-					ans++;				
+					ans++;
 			}
 			return ans;
 		}
@@ -65,13 +65,72 @@ namespace LeetCode.Arrays
 
 			for (int i = 0; i < candies.Length; i++)
 			{
-				maxCand = Math.Max(candies[i], maxCand);
+				maxCand = Math.Max(candies[i], maxCand);// Extract the highest number from the given array using the Math function in C#.
 			}
 			for (int i = 0; i < candies.Length; i++)
 			{
 				ans.Add(candies[i] + extraCandies >= maxCand);
 			}
 			return ans;
+		}
+
+		//1672. Richest Customer Wealth
+		public static int MaximumWealth(int[][] accounts)
+		{
+
+			//int cust1 = 0, cust2 = 0;
+			//int[] array1 = accounts[0];
+			//int[] array2 = accounts[1];
+			//for (int i = 0; i < array1.Length; i++)
+			//{
+			//	cust1 =+ cust1 + array1[i];
+
+			//}
+			//for (int j = 0; j < array2.Length; j++)
+			//{
+			//	cust2 =+ cust2 + array2[j];
+			//}
+			//if (cust1 >= cust2)
+			//	return cust1;
+			//else return cust2;
+
+			int currenMax = int.MinValue;
+			for (int i = 0; i < accounts.Length; i++)
+			{
+				if (accounts[i].Sum() > currenMax)
+				{
+					currenMax = accounts[i].Sum();
+				}
+			}
+			return currenMax;
+		}
+
+		//2824. Count Pairs Whose Sum is Less than Target
+		//Given a 0-indexed integer array nums of length n and an integer target, return the number of pairs (i, j) where 0 <= i < j < n and nums[i] + nums[j] < target.
+
+		//Input: nums = [-1,1,2,3,1], target = 2
+		//Output: 3
+		//Explanation: There are 3 pairs of indices that satisfy the conditions in the statement:
+		//- (0, 1) since 0 < 1 and nums[0] + nums[1] = 0 < target
+		//- (0, 2) since 0 < 2 and nums[0] + nums[2] = 1 < target 
+		//- (0, 4) since 0 < 4 and nums[0] + nums[4] = 0 < target
+		//Note that (0, 3) is not counted since nums[0] + nums[3] is not strictly less than the target.
+		public static int CountPairs(IList<int> nums, int target)
+		{
+			nums = nums.OrderBy(x => x).ToList();
+			int left = 0, count = 0;
+			int right = nums.Count  -1;
+			while (left < right)
+			{
+				if (nums[left] + nums[right] < target)
+				{
+					count += right - left;
+					left++;
+				}
+				else
+					right--;
+			}
+			return count;
 		}
 	}
 }
