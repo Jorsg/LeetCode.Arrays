@@ -26,7 +26,8 @@ public class Program
 		int m = 3, n = 3;
 		int[] nums = { 2, 3, 5, 1, 3 };
 		int val = 3;
-		
+		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
+
 		string[] operation = { "--X", "X++", "X++" };
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
@@ -47,9 +48,10 @@ public class Program
 		//int[] result = ArrayExcersices.GetConcatenation(nums);
 		// int[] result = ArrayExcersices.Shuffle(nums, n);
 		//int result = ArrayPracticExcersice.NumberOfEmployeesWhoMetTarget(nums, val);
-		IList<bool> result = ArrayPracticExcersice.KidsWithCandies(nums, val);
-		 foreach (var i in result) Console.WriteLine(i);
-		//Console.WriteLine(ArrayExcersices.FinalValueAfterOperations(operation));
+		//IList<bool> result = ArrayPracticExcersice.KidsWithCandies(nums, val);
+		 int resutl = ArrayPracticExcersice.MaximumWealth(nums1);
+		 //foreach (var i in result) Console.WriteLine(i);
+		Console.WriteLine(resutl);
 		
 
 
