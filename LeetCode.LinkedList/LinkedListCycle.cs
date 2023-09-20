@@ -8,11 +8,9 @@ namespace LeetCode.LinkedList
 {
 	public class LinkedListCycle
 	{
-		private ListNode _head;
-
 		public LinkedListCycle()
 		{
-			_head = null;
+			
 		}
 
 

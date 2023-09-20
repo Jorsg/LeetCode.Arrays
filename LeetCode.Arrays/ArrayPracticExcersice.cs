@@ -75,6 +75,16 @@ namespace LeetCode.Arrays
 		}
 
 		//1672. Richest Customer Wealth
+		//You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i​​​​​​​​​​​th​​​​ customer has in the j​​​​​​​​​​​th​​​​ bank. Return the wealth that the richest customer has.
+		//A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
+
+		//Example 1:
+		//Input: accounts = [[1,2,3],[3,2,1]]
+		//Output: 6
+		//Explanation:
+		//1st customer has wealth = 1 + 2 + 3 = 6
+		//2nd customer has wealth = 3 + 2 + 1 = 6
+		//Both customers are considered the richest with a wealth of 6 each, so return 6.
 		public static int MaximumWealth(int[][] accounts)
 		{
 
@@ -117,6 +127,10 @@ namespace LeetCode.Arrays
 		//Note that (0, 3) is not counted since nums[0] + nums[3] is not strictly less than the target.
 		public static int CountPairs(IList<int> nums, int target)
 		{
+
+			//Runtime: 101
+			//Memory: 41.53
+
 			nums = nums.OrderBy(x => x).ToList();
 			int left = 0, count = 0;
 			int right = nums.Count  -1;
@@ -131,6 +145,28 @@ namespace LeetCode.Arrays
 					right--;
 			}
 			return count;
+		}
+
+		//1480. Running Sum of 1d Array
+		//Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
+		//Return the running sum of nums.
+
+		//Example 1:
+		//Input: nums = [1,2,3,4]
+		//Output: [1,3,6,10]
+		//Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
+		public static int[] RunningSum(int[] nums)
+		{
+			//Runtime: 121 ms
+			//Memory: 43.46 MB
+			int sum = 0;
+			int[] array = new int[nums.Length];
+			for (int i = 0; i < nums.Length; i++)
+			{
+				sum = sum + nums[i];
+				array[i] = sum;
+			}
+			return array;
 		}
 	}
 }
