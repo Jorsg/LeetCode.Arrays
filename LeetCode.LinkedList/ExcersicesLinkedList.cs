@@ -17,10 +17,10 @@ namespace LeetCode.LinkedList
 		{
 			//Runtime: 88 ms
 			//Memory Usage: 49.7 MB
-						ListNode tempHead = new ListNode();
+			ListNode tempHead = new ListNode();
 			ListNode current = tempHead;
 			int carry = 0;
-			
+
 			while (l1 != null || l2 != null || carry != 0)
 			{
 				int x = (l1 != null) ? l1.val : 0;
@@ -53,7 +53,7 @@ namespace LeetCode.LinkedList
 		//Input: head = [1,0,1]
 		//Output: 5
 		//Explanation: (101) in base 2 = (5) in base 10
-		
+
 		public int GetDecimalValue(ListNode head)
 		{
 			//Runtime: 80 ms
