@@ -24,7 +24,7 @@ public class Program
 		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
-		int[] nums = { 3, 1, 2, 10, 1 };
+		int[] nums = { 8, 1, 2, 2, 3 };
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
 
@@ -49,7 +49,7 @@ public class Program
 		// int[] result = ArrayExcersices.Shuffle(nums, n);
 		//int result = ArrayPracticExcersice.NumberOfEmployeesWhoMetTarget(nums, val);
 		//IList<bool> result = ArrayPracticExcersice.KidsWithCandies(nums, val);
-		 int[] result = ArrayPracticExcersice.RunningSum(nums);
+		 int[] result = ArrayPracticExcersice.SmallerNumbersThanCurrent(nums);
 		 foreach (var i in result) Console.WriteLine(i);
 		//Console.WriteLine(resutl);
 		
