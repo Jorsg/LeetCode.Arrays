@@ -66,5 +66,55 @@ namespace LeetCode.LinkedList
 			}
 			return result;
 		}
+
+
+		//876. Middle of the Linked List
+		//Given the head of a singly linked list, return the middle node of the linked list.
+		//If there are two middle nodes, return the second middle node.
+
+		//Input: head = [1,2,3,4,5]
+		//Output: [3,4,5]
+		//Explanation: The middle node of the list is node 3.
+		public ListNode MiddleNode(ListNode head)
+		{
+			//Runtime: 85 ms
+			//Memory: 38.02 MB
+			var len = 0;
+			var nodeHead = head;
+			while (head != null)
+			{
+				len++;
+				head = head.next;
+			}
+			int index = 0;
+			while (len / 2 != index)
+			{
+				nodeHead = head.next;
+				index++;
+			}
+			return nodeHead;
+		}
+
+		//24. Swap Nodes in Pairs
+		//Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+		
+		//Example 1:
+		//Input: head = [1,2,3,4]
+		//Output: [2,1,4,3]
+		public ListNode SwapPairs(ListNode head)
+		{
+			//Runtime: 75 ms
+			//Memory: 38.29 MB
+
+			if ((head == null) || (head.next == null))
+			{ return head; }
+
+			ListNode prevNode = head; ListNode nextNode = head.next;
+			prevNode.next = SwapPairs(nextNode.next);
+			nextNode.next = prevNode;
+
+
+			return nextNode;
+		}
 	}
 }
