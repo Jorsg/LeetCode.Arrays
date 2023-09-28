@@ -27,6 +27,7 @@ public class Program
 		int[] nums = { 8, 1, 2, 2, 3 };
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
+		string[] sentences = { "alice and bob love leetcode", "i think so too", "this is great thanks very much" };
 
 		string[] operation = { "--X", "X++", "X++" };
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
@@ -47,10 +48,10 @@ public class Program
 		//int[] result = ArrayExcersices.BuildArray(nums);
 		//int[] result = ArrayExcersices.GetConcatenation(nums);
 		// int[] result = ArrayExcersices.Shuffle(nums, n);
-		//int result = ArrayPracticExcersice.NumberOfEmployeesWhoMetTarget(nums, val);
+		int result = ArrayPracticExcersice.MostWordsFound(sentences);
 		//IList<bool> result = ArrayPracticExcersice.KidsWithCandies(nums, val);
-		 int[] result = ArrayPracticExcersice.SmallerNumbersThanCurrent(nums);
-		 foreach (var i in result) Console.WriteLine(i);
+		 //int[] result = ArrayPracticExcersice.SmallerNumbersThanCurrent(nums);
+		// foreach (var i in result) Console.WriteLine(i);
 		//Console.WriteLine(resutl);
 		
 
