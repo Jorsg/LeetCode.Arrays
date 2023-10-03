@@ -51,5 +51,29 @@ namespace LeetCode.LinkedList
 
 			return sentinel.next;
 		}
+
+		//82. Remove Duplicates from Sorted List II
+		//Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
+		//Input: head = [1,2,3,3,4,4,5]
+		//Output: [1,2,5]
+		public ListNode DeleteDuplicates(ListNode head)
+		{
+			//Runtime: 80 ms
+			// Memory: 39.87 MB
+			ListNode newHead = new ListNode(0, head);
+			var prevNod = newHead;
+
+			while (prevNod != null)
+			{
+				if (prevNod.next != null && prevNod.next.next != null && prevNod.next.val == prevNod.next.next.val)
+				{
+					var duplicaNod = prevNod.next.val;
+					while (prevNod.next != null && prevNod.next.val == duplicaNod) prevNod.next = prevNod.next.next;
+				}
+				else
+					prevNod = prevNod.next;			
+			}
+			return newHead.next;
+		}
 	}
 }

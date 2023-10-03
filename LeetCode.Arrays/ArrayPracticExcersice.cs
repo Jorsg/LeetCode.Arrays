@@ -133,7 +133,7 @@ namespace LeetCode.Arrays
 
 			nums = nums.OrderBy(x => x).ToList();
 			int left = 0, count = 0;
-			int right = nums.Count  -1;
+			int right = nums.Count - 1;
 			while (left < right)
 			{
 				if (nums[left] + nums[right] < target)
@@ -191,12 +191,12 @@ namespace LeetCode.Arrays
 			int[] result = new int[nums.Length];
 			int count = 0;
 			for (int i = 0; i < nums.Length; i++)
-			{				
+			{
 				for (int j = 0; j < nums.Length; j++)
 				{
 					if (nums[j] < nums[i])
 						count++;
-					
+
 				}
 				result[i] = count;
 				count = 0;
@@ -210,7 +210,7 @@ namespace LeetCode.Arrays
 			//Runtime: 72 ms
 			//Memory: 41.78 MB
 
-			int count = 0;	
+			int count = 0;
 
 			for (int i = 0; i < sentences.Length; i++)
 			{
@@ -224,42 +224,37 @@ namespace LeetCode.Arrays
 
 			return count;
 		}
-	}
 
-	public class SparseVector
-	{
-		//1570. Dot Product of Two Sparse Vectors
-		//Given two sparse vectors, compute their dot product.
-		//Implement class SparseVector:
-		//SparseVector(nums) Initializes the object with the vector nums
-		//dotProduct(vec) Compute the dot product between the instance of SparseVector and vec
-		//A sparse vector is a vector that has mostly zero values, you should store the sparse vector efficiently and compute the dot product between two SparseVector.
-		//Follow up: What if only one of the vectors is sparse?
+		//1909. Remove One Element to Make the Array Strictly Increasing
+		//Given a 0-indexed integer array nums, return true if it can be made strictly increasing after removing exactly one element, or false
+		//otherwise. If the array is already strictly increasing, return true.
+		//The array nums is strictly increasing if nums[i - 1] < nums[i] for each index (1 <= i < nums.length).
 
 		//Example 1:
-		//Input: nums1 = [1,0,0,2,3], nums2 = [0,3,0,4,0]
-		//Output: 8
-		//Explanation: v1 = SparseVector(nums1) , v2 = SparseVector(nums2)
-		//v1.dotProduct(v2) = 1*0 + 0*3 + 0*0 + 2*4 + 3*0 = 8
-		//
-		private int[] array;
-		public SparseVector(int[] nums)
+		//Input: nums = [1,2,10,5,7]
+		//Output: true
+		//Explanation: By removing 10 at index 2 from nums, it becomes [1,2,5,7].
+		//[1,2,5,7] is strictly increasing, so return true.
+		public static bool CanBeIncreasing(int[] nums)
 		{
-			array = nums;
-		}
-
-		// Return the dotProduct of two sparse vectors
-		public int DotProduct(SparseVector vec)
-		{
-			//Runtime: 308 ms
-			//Memory: 63.71 MB
-			int result = 0;
-			for (int i = 0; i < array.Length; i++)
+			//Runtime: 89 ms
+			//Memory: 41.00 MB
+			int count = 0;
+			for (int i = 1; i < nums.Length; i++)
 			{
-				result += array[i] * vec.array[i];
+				if (nums[i - 1] >= nums[i])
+				{
+					count++;
+					if (count > 1)
+						return false;
+				}
+				if (i > 1 && nums[i - 2] >= nums[i])
+					nums[i] = nums[i - 1];
 			}
-			return result;
+			return true;
 		}
 	}
+
+	
 
 }
