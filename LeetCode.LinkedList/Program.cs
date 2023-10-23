@@ -14,18 +14,19 @@ public class Program
 		LinkedListCycle listCycle = new LinkedListCycle();
 		ListNode list = new ListNode();
 		list.val = 1;
-		list.val = 0;
 		list.val = 1;
+		list.val = 2;
 		//list.val = 3;
 		//list.val = 4;
 		//list.val = 5;
 		//list.val = 6;
 		//listCycle.RemoveNthFromEnd(list, 2);
-		//ReverseLinkedList list1 = new ReverseLinkedList();
-		//list1.RemoveElements(list, 6);
-		//Console.WriteLine(list1.ReverseList(list));
-		ExcersicesLinkedList excersices = new ExcersicesLinkedList();
-		Console.WriteLine(excersices.GetDecimalValue(list));
+		ReverseLinkedList list1 = new ReverseLinkedList();
+		var result = list1.DeleteDuplicatesSortList(list);
+		//foreach (var item in result) Console.WriteLine();
+		//Console.WriteLine(list1.DeleteDuplicatesSortList(list));
+		//ExcersicesLinkedList excersices = new ExcersicesLinkedList();
+		//Console.WriteLine(excersices.GetDecimalValue(list));
 		
 		
 
