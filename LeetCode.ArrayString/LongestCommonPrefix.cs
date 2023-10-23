@@ -10,6 +10,8 @@ namespace LeetCode.ArrayString
 	{
 		public string LongestCommonPrefix_Excercise(string[] strs)
 		{
+			//Runtime: 98 ms
+			// Memory: 40.37 MB
 			if (strs.Length == 0) return "";
 
 			String prefix = strs[0];

@@ -75,5 +75,27 @@ namespace LeetCode.LinkedList
 			}
 			return newHead.next;
 		}
+
+		//83. Remove Duplicates from Sorted List
+		//Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
+		//Example 1:
+		//Input: head = [1,1,2]
+		//Output: [1,2]
+		public ListNode DeleteDuplicatesSortList(ListNode head)
+		{
+			//Runtime: 75 ms
+			// Memory: 40.16 MB
+			ListNode newHead = head;
+
+			while (newHead != null)
+			{
+				while (newHead.val == newHead.next?.val)
+				{
+					newHead.next = newHead.next.next;
+				}
+				newHead = newHead.next;
+			}
+			return head;
+		}
 	}
 }
