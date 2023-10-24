@@ -341,8 +341,39 @@ namespace LeetCode.Arrays
 			}
 			return decode;
 		}
-	}
 
-	
+
+		//2574. Left and Right Sum Differences
+		//Given a 0-indexed integer array nums, find a 0-indexed integer array answer where:
+		//answer.length == nums.length.
+		//answer[i] = |leftSum[i] - rightSum[i]|.
+		//leftSum[i] is the sum of elements to the left of the index i in the array nums. If there is no such element, leftSum[i] = 0.
+		//rightSum[i] is the sum of elements to the right of the index i in the array nums. If there is no such element, rightSum[i] = 0.
+
+		//Example 1:
+		//Input: nums = [10,4,8,3]
+		//Output: [15,1,11,22]
+		//Explanation: The array leftSum is [0,10,14,22] and the array rightSum is [15,11,3,0].
+		//The array answer is [|0 - 15|,|10 - 11|,|14 - 3|,|22 - 0|] = [15,1,11,22].
+		public static int[] LeftRightDifference(int[] nums)
+		{
+			//Runtime: 143 md
+			//Memory: 43.22 MB
+			int[] leftSum = new int[nums.Length];
+			int[] rightSum = new int[nums.Length];
+
+			for (int i = 0; i < nums.Length - 1; i++)
+			{
+				leftSum[i + 1] = leftSum[i] + nums[i];
+				rightSum[nums.Length - (i + 2)] = rightSum[nums.Length - (i + 1)] + nums[nums.Length - (i + 1)];
+			}
+			for (int i = 0; i < nums.Length; i++)
+			{
+				nums[i] = Math.Abs(leftSum[i] - rightSum[i]);
+			}
+			return nums;
+		}
+
+	}
 
 }
