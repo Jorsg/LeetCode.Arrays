@@ -19,14 +19,24 @@ namespace LeetCode.ArrayString
 		{
 			//Runtime: 226 ms
 			//Memory Usage: 124.5 MB
-			int left =0;
-			int right = s.Length -1;
+			int left = 0;
+			int right = s.Length - 1;
 			while (left < right)
 			{
 				char temp = s[left];
 				s[left++] = s[right];
 				s[right--] = temp;
 			}
+		}
+
+
+		public string ReverseWords(string s)
+		{
+			//Runtime: 80 ms
+			//Memory Usage: 38.8 MB
+			string[] words = s.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
+			Array.Reverse(words);
+			return string.Join(" ", words);
 		}
 	}
 }
