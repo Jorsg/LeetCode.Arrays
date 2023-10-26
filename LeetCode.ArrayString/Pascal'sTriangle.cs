@@ -44,5 +44,40 @@ namespace LeetCode.ArrayString
 
 			return triangle;
 		}
+
+		//119. Pascal's Triangle II
+		//Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
+		//In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+
+
+		//Example 1:
+		//Input: rowIndex = 3
+		//Output: [1,3,3,1]
+		public IList<int> GetRow(int rowIndex)
+		{
+			//Runtime: 88 ms
+			//Memory Usage: 36.3 MB
+			List<List<int>> triangle = new List<List<int>>();
+			for (int i = 0; i <= rowIndex; i++)
+			{
+				List<int> row = new List<int>();
+				for (int j = 0; j <= i; j++)
+				{
+					if (j == 0 || j == i)
+						row.Add(1);
+					else
+					{
+						int prevRow = j - 1;
+						int leftVal = triangle[prevRow][j - 1];
+						int rightVal = triangle[prevRow][j];
+						row.Add(leftVal + rightVal);
+					}
+				}
+				triangle.Add(row);
+			}
+			return triangle[rowIndex];
+		}
+
+
 	}
 }
