@@ -9,6 +9,8 @@ namespace LeetCode.HashTable
 {
 	public class MyHashSet
 	{
+		//705. Design HashSet
+
 		//Runtime: 195 ms
 		//Memory Usage: 69.6 MB
 		BitArray arr;
