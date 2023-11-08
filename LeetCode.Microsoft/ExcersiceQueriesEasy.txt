@@ -1,5 +1,9 @@
 ﻿/* Write your T-SQL query statement below */
 
+/*
+175. Combine Two Tables
+Runtime: 848 ms*/
+
 Select p.firstName, p.lastName, a.city, a.state
 From Person p left Join Address a On p.personId = a.personId
  
