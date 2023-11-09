@@ -9,8 +9,8 @@ public class Program
 		int[] nums2 = { 2, 2 };
 		//bool result = ContainsDuplicate.ContainsDuplicateExcer(nums);
 		//int result = SingleNumber.SingleNumberExcer(nums);
-		int[] result = IntersectionTwoArrays.Intersection(nums, nums2);
-		foreach (var item in result) Console.WriteLine(item);        
+		//int[] result = IntersectionTwoArrays.Intersection(nums, nums2);
+		//foreach (var item in result) Console.WriteLine(item);        
         //Console.WriteLine(result);
     }
 }
