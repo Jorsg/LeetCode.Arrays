@@ -63,5 +63,27 @@ namespace LeetCode.Microsoft
 		}
 
 
+		//1528. Shuffle String
+		//You are given a string s and an integer array indices of the same length. The string s will be shuffled such
+		//that the character at the ith position moves to indices[i] in the shuffled string.
+		//Return the shuffled string.
+
+		//Example 1:
+		//Input: s = "codeleet", indices = [4,5,6,7,0,2,1,3]
+		//Output: "leetcode"
+		//Explanation: As shown, "codeleet" becomes "leetcode" after shuffling.
+		public static string RestoreString(string s, int[] indices)
+		{
+			//Runtime: 92 ms
+			//Memory: 42.31 MB
+			StringBuilder sb = new StringBuilder(s);
+			for (int i = 0; i < indices.Length; i++)
+			{
+				sb[indices[i]] = s[i];
+			}
+			return sb.ToString();
+		}
+
+
 	}
 }

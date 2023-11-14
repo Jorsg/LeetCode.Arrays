@@ -5,9 +5,10 @@ public class Program
 	private static void Main(string[] args)
 	{
 		//Console.WriteLine("Hello, World!");
-		string ip = "255.100.50.0";
+		string s = "codeleet";
+		int[] indices = { 4, 5, 6, 7, 0, 2, 1, 3 };
 		//int result = ExcersiceEasy.Sum(-10, 4);
 		
-		Console.WriteLine(ExcersiceEasy.DefangIPaddr(ip));
+		Console.WriteLine(ExcersiceEasy.RestoreString(s, indices));
 	}
 }
