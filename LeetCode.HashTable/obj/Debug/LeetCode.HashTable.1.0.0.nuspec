@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LeetCode.HashTable</id>
+    <version>1.0.0</version>
+    <authors>LeetCode.HashTable</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\bin\Debug\net7.0\LeetCode.HashTable.runtimeconfig.json" target="lib\net7.0\LeetCode.HashTable.runtimeconfig.json" />
+    <file src="D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\bin\Debug\net7.0\LeetCode.HashTable.dll" target="lib\net7.0\LeetCode.HashTable.dll" />
+  </files>
+</package>
