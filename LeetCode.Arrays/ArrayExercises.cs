@@ -9,7 +9,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace LeetCode.Arrays
 {
-	public static class ArrayExcersices
+	public static class ArrayExercises
 	{
 
 		//Height Checker

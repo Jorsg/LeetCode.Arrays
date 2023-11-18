@@ -24,7 +24,7 @@ public class Program
 		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
-		int[] nums = { 5, 10, 1, 5, 2 };
+		int[] nums = { 1, 2, 3, 4 };
 		int k = 1;
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
@@ -54,8 +54,10 @@ public class Program
 		//int[] result = ArrayPracticExcersice.LeftRightDifference(nums);
 		//foreach (var i in result) Console.WriteLine(i);
 		//Console.WriteLine(ArrayPracticExcersice.CanBeIncreasing(nums));
-		Console.WriteLine(ArrayPracticExcersice.SumIndicesWithKSetBits(nums, k));
-		
+		//Console.WriteLine(ArrayPracticExercise.SumIndicesWithKSetBits(nums, k));
+		int[] result = ArrayExercise3.DecompressRLElist(nums);
+
+
 
 
 

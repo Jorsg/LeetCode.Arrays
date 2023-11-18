@@ -33,7 +33,7 @@ namespace LeetCode.Microsoft
 			//Runtime: 64ms
 			//Memory: 36.94 MB
 			string ip = address.Replace(".", "[.]");
-            return ip;
+			return ip;
 		}
 
 
@@ -45,7 +45,7 @@ namespace LeetCode.Microsoft
 		//Example 1:
 		//Input: jewels = "aA", stones = "aAAbbbb"
 		//Output: 3
-		
+
 		public static int NumJewelsInStones(string jewels, string stones)
 		{
 			//Runtime: 51 ms
@@ -58,8 +58,8 @@ namespace LeetCode.Microsoft
 					if (jewels[i] == stones[j])
 						gems++;
 				}
-			} 
-            return gems;
+			}
+			return gems;
 		}
 
 
@@ -83,6 +83,54 @@ namespace LeetCode.Microsoft
 			}
 			return sb.ToString();
 		}
+
+
+
+		//859. Buddy Strings
+		//Given two strings s and goal, return true if you can swap two letters in s so the result is equal to goal, otherwise, return false.
+		//Swapping letters is defined as taking two indices i and j (0-indexed) such that i != j and swapping the characters at s[i] and s[j].
+		//For example, swapping at indices 0 and 2 in "abcd" results in "cbad".
+
+		//Example 1:
+		//Input: s = "ab", goal = "ba"
+		//Output: true
+		//Explanation: You can swap s[0] = 'a' and s[1] = 'b' to get "ba", which is equal to goal.
+		//Example 2:
+		
+		//Input: s = "ab", goal = "ab"
+		//Output: false
+		//Explanation: The only letters you can swap are s[0] = 'a' and s[1] = 'b', which results in "ba" != goal.
+		
+		public static bool buddyStrings(string s, string goal)
+		{
+			//Runtime: 67 ms
+			//Memory: 39.00 MB
+
+			if (s.Length != goal.Length || s.Length < 2 || goal.Length < 2)
+				return false;
+
+
+			if (s.Equals(goal))
+			{
+				HashSet<char> uniqueChars = new HashSet<char>();
+				return uniqueChars.Count < s.Length;
+			}
+
+			List<int> diffIndices = new List<int>();
+			for (int i = 0; i < s.Length; i++)
+			{
+				if (s[i] != goal[i])
+					diffIndices.Add(i);
+				if (diffIndices.Count > 2)
+					return false;
+			}
+			if (diffIndices.Count != 2)
+				return false;
+
+			return s[diffIndices[0]] == goal[diffIndices[1]] && s[diffIndices[1]] == goal[diffIndices[0]];
+		}
+
+
 
 
 	}
