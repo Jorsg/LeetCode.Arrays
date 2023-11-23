@@ -29,7 +29,14 @@ public class Program
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
 		string[] sentences = { "alice and bob love leetcode", "i think so too", "this is great thanks very much" };
-
+		IList<IList<string>> items = new List<IList<string>>
+		{
+			new List<string> { "phone", "blue", "pixel" },
+			new List<string> { "computer", "silver", "phone" },
+			new List<string> { "phone", "gold", "iphone" }
+		};
+		string ruleKey = "type";
+		string ruleValue = "phone";
 		string[] operation = { "--X", "X++", "X++" };
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
@@ -55,7 +62,9 @@ public class Program
 		//foreach (var i in result) Console.WriteLine(i);
 		//Console.WriteLine(ArrayPracticExcersice.CanBeIncreasing(nums));
 		//Console.WriteLine(ArrayPracticExercise.SumIndicesWithKSetBits(nums, k));
-		int[] result = ArrayExercise3.DecompressRLElist(nums);
+		//int[] result = ArrayExercise3.DecompressRLElist(nums);
+		int result = ArrayExercise3.CountMatches(items, ruleKey, ruleValue);
+		Console.WriteLine(result);
 
 
 
