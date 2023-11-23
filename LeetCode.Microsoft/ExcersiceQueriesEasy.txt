@@ -56,4 +56,25 @@ Runtime: 602 ms
 Select t1.team_name as home_team, t2.team_name as away_team 
 From Teams t1, Teams t2
 Where t1.team_name != t2.team_name
+
+/*1068. Product Sales Analysis I*/
+Select p.product_name, s.year, s.price
+From Sales s Inner Join Product p On s.product_id = p.product_id
+
+/*1581. Customer Who Visited but Did Not Make Any Transactions*/
+/* Write your T-SQL query statement below */
+Select Sub.customer_id,
+COUNT(*) as count_no_trans
+From
+(
+Select v.visit_id ,v.customer_id, t.transaction_id as count_no_trans  
+From Visits v left Join Transactions t On v.visit_id = t.visit_id
+Where t.visit_id is null
+) as Sub
+Group by Sub.customer_id
  
+ /*197. Rising Temperature*/
+ /* Write your T-SQL query statement below */
+Select w2.id
+ From Weather w1 Inner Join Weather w2 On DATEDIFF(day, w1.recordDate, w2.recordDate) =1
+ and w2.temperature > w1.temperature
