@@ -78,3 +78,49 @@ Group by Sub.customer_id
 Select w2.id
  From Weather w1 Inner Join Weather w2 On DATEDIFF(day, w1.recordDate, w2.recordDate) =1
  and w2.temperature > w1.temperature
+
+ /*
+ SELECT
+   w1.id
+FROM Weather as w1
+    inner join Weather as w2 on w1.recordDate=DATEADD(DAY, 1, w2.recordDate)
+WHERE
+    w1.temperature > w2.temperature
+ */
+
+ /* 1661. Average Time of Process per Machine */
+Select a1.machine_id, ROUND(AVG(a2.timestamp - a1.timestamp),3) processing_time
+From Activity a1
+Join Activity a2
+On a1.process_id = a2.process_id
+And a1.machine_id = a2.machine_id
+And a1.timestamp < a2.timestamp
+Group by a1.machine_id
+
+/ *577. Employee Bonus */
+Select c.name, c.bonus
+From (
+Select e.name, b.bonus
+From Employee e left Join Bonus b On e.empId = b.empId 
+
+) c 
+Where c.bonus < 1000 or c.bonus is null
+
+/* 1280. Students and Examinations  */
+Select *,
+(Select count(student_id) 
+From Examinations e 
+where e.student_id = s.student_id 
+and e.subject_name = sn.subject_name) as attended_exams
+From Students s
+Cross Join Subjects sn
+Order by student_id, subject_name
+
+
+/* 570. Managers with at Least 5 Direct Reports  */
+Select t1.name
+From Employee t1 
+Inner Join Employee t2
+On t1.id = t2.managerId
+Group by t2.managerId, t1.name
+Having count(t2.managerId) >= 5
