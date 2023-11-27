@@ -38,6 +38,9 @@ public class Program
 		string ruleKey = "type";
 		string ruleValue = "phone";
 		string[] operation = { "--X", "X++", "X++" };
+
+		string command = "G()(al)";
+
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
 		//Console.WriteLine(ArrayDelete.RemoveDuplicates(nums));
@@ -63,8 +66,8 @@ public class Program
 		//Console.WriteLine(ArrayPracticExcersice.CanBeIncreasing(nums));
 		//Console.WriteLine(ArrayPracticExercise.SumIndicesWithKSetBits(nums, k));
 		//int[] result = ArrayExercise3.DecompressRLElist(nums);
-		int result = ArrayExercise3.CountMatches(items, ruleKey, ruleValue);
-		Console.WriteLine(result);
+		//int result = ArrayExercise3.CountMatches(items, ruleKey, ruleValue);
+		Console.WriteLine(ArrayExercise3.Interpret(command));
 
 
 

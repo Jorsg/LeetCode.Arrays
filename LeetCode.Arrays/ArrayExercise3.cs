@@ -85,9 +85,9 @@ namespace LeetCode.Arrays
 		//ruleKey == "color" and ruleValue == colori.
 		//ruleKey == "name" and ruleValue == namei.
 		//Return the number of items that match the given rule.
-		
+
 		//Example 1:
-		
+
 		//Input: items = [["phone", "blue", "pixel"], ["computer","silver","lenovo"], ["phone","gold","iphone"]], ruleKey = "color", ruleValue = "silver"
 		//Output: 1
 		//Explanation: There is only one item matching the given rule, which is ["computer","silver","lenovo"].
@@ -115,6 +115,39 @@ namespace LeetCode.Arrays
 				}
 			}
 			return itemsVal;
+		}
+
+
+		//1678. Goal Parser Interpretation
+		//You own a Goal Parser that can interpret a string command. The command consists of an alphabet of "G", "()" and/or "(al)" in some order.
+		//The Goal Parser will interpret "G" as the string "G", "()" as the string "o", and "(al)" as the string "al". The interpreted strings are then concatenated in the original order.
+
+		//Given the string command, return the Goal Parser's interpretation of command.		
+	
+		//Example 1:	
+		//Input: command = "G()(al)"
+		//Output: "Goal"
+		//Explanation: The Goal Parser interprets the command as follows:
+		//G -> G
+		//() -> o
+		//(al) -> al
+		//The final concatenated result is "Goal".
+
+		//Example 2:
+	
+		//Input: command = "G()()()()(al)"
+		//Output: "Gooooal"
+		//Example 3:
+	
+		//Input: command = "(al)G(al)()()G"
+		//Output: "alGalooG"
+
+		public static string Interpret(string command)
+		{
+			//Runtime: 66 ms
+			//Memory: 36.00 MB
+			string result = command.Replace("()", "o").Replace("(al)", "al");
+			return result;
 		}
 	}
 }
