@@ -124,3 +124,27 @@ Inner Join Employee t2
 On t1.id = t2.managerId
 Group by t2.managerId, t1.name
 Having count(t2.managerId) >= 5
+
+/* 1934. Confirmation Rate */
+Select s.user_id, Round(ISNULL([rate], 0),2) as confirmation_rate 
+ From
+  (Select user_id,
+  (count(Case When action = 'confirmed' Then 1 Else null End)/
+  Cast(Count(user_id) as decimal(10,2))) as rate
+  From Confirmations Group by user_id) as c
+  right Join Signups s On s.user_id = c.user_Id
+
+
+  /* 620. Not Boring Movies */
+   Select id, movie, description, rating
+  From Cinema 
+  Where id % 2 = 1 and description != 'boring'
+  Order by rating desc
+
+  /* 1251. Average Selling Price  */
+Select  p.product_id, 
+ROUND(ISNULL((SUM(u.units * p.price) + 0.00) / (SUM(u.units) + 0.00), 0), 2) average_price
+From Prices p
+LEFT Join UnitsSold u On p.product_id = u.product_id
+and p.start_date <= u.purchase_date and p.end_date >= u.purchase_date
+Group by  p.product_id
