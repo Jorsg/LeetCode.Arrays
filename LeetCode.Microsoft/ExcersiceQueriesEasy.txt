@@ -148,3 +148,10 @@ From Prices p
 LEFT Join UnitsSold u On p.product_id = u.product_id
 and p.start_date <= u.purchase_date and p.end_date >= u.purchase_date
 Group by  p.product_id
+
+/* 1075. Project Employees I */
+Select p.project_id,
+ROUND(ISNULL((SUM(e.experience_years) + 0.00) /(COUNT(p.project_id) + 0.00),0 ), 2) as average_years 
+From Project p 
+Join Employee e On p.employee_id = e.employee_id
+Group by p.project_id
