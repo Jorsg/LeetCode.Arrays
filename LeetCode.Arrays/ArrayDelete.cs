@@ -111,10 +111,10 @@ namespace LeetCode.Arrays
 
 
 		//80. Remove Duplicates from Sorted Array II
+		//
 		public static int RemoveDuplicatesII(int[] nums)
 		{
-			if (nums.Length <= 2) return nums.Length;
-			
+			if (nums.Length <= 2) return nums.Length;			
 
 			int noDuplica = 2;
 			for (int i = 2; i < nums.Length; i++)
