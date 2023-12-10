@@ -155,3 +155,38 @@ ROUND(ISNULL((SUM(e.experience_years) + 0.00) /(COUNT(p.project_id) + 0.00),0 ),
 From Project p 
 Join Employee e On p.employee_id = e.employee_id
 Group by p.project_id
+
+/* 1633. Percentage of Users Attended a Contest   */
+Select r.contest_id,
+ROUND(COUNT(u.user_id)*100*1.0 /(Select  COUNT(*) From Users),2) as percentage
+From Users u 
+Inner Join Register r 
+On u.user_id = r.user_id 
+Group by r.contest_id
+Order by percentage desc, r.contest_id asc
+
+
+/*  1174. Immediate Food Delivery II */
+/* Write your T-SQL query statement below */
+Select 
+ROUND(AVG(Case When 
+  (order_date = customer_pref_delivery_date) Then 100.0 Else 0 End),2) as immediate_percentage
+From (Select *, RANK() OVER (PARTITION BY customer_id Order by order_date) as rank
+ From Delivery ) as data
+ Where rank =1
+
+ /*  550. Game Play Analysis IV */
+
+ With MinDate as (
+  Select player_id, Min(event_date) minDt From Activity Group by player_id
+)
+
+Select ROUND(COUNT(a.player_id)*1.0/(Select COUNT(DISTINCT player_id) From Activity),2) fraction
+From Activity a, MinDate md
+Where DATEDIFF(day, md.minDt, event_date) = 1 and a.player_id = md.player_id
+
+/* 2356. Number of Unique Subjects Taught by Each Teacher    */
+Select  t.teacher_id, 
+Count(Distinct t.subject_id) cnt
+From Teacher t
+Group by t.teacher_id
