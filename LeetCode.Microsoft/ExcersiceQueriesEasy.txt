@@ -190,3 +190,12 @@ Select  t.teacher_id,
 Count(Distinct t.subject_id) cnt
 From Teacher t
 Group by t.teacher_id
+
+/* 1070. Product Sales Analysis III  */
+With s2 as
+(
+  Select product_id, Min(year) as year From Sales Group by product_id
+)
+Select s.product_id, s.year as first_year, s.quantity, s.price
+From Sales s
+Inner Join s2 On s.product_id = s2.product_id and s.year = s2.year
