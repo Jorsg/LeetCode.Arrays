@@ -199,3 +199,8 @@ With s2 as
 Select s.product_id, s.year as first_year, s.quantity, s.price
 From Sales s
 Inner Join s2 On s.product_id = s2.product_id and s.year = s2.year
+
+/* 596. Classes More Than 5 Students */
+ Select class From Courses
+ Group by class
+ Having Count(class)>=5
