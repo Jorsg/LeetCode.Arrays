@@ -25,7 +25,7 @@ public class Program
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
 		int[] nums = { 1, 1, 1, 2, 2, 3 };
-		int k = 1;
+		int k = 4;
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
 		string[] sentences = { "alice and bob love leetcode", "i think so too", "this is great thanks very much" };
@@ -40,6 +40,7 @@ public class Program
 		string[] operation = { "--X", "X++", "X++" };
 
 		string command = "G()(al)";
+		string s = "Hello how are you Contestant";
 
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
@@ -68,6 +69,8 @@ public class Program
 		//int[] result = ArrayExercise3.DecompressRLElist(nums);
 		//int result = ArrayExercise3.CountMatches(items, ruleKey, ruleValue);
 		//Console.WriteLine(ArrayExercise3.Interpret(command));
+		string result = TruncateSentence.TruncateSentenceExce(s,k);
+		Console.WriteLine(result);
 
 
 
