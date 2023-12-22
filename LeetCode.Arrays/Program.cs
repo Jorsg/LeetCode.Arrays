@@ -24,7 +24,7 @@ public class Program
 		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
 		int[] arr2 = { 2, 5, 6 };
 		int m = 3, n = 3;
-		int[] nums = { 1, 1, 1, 2, 2, 3 };
+		int[] nums = { 1, 2, 3, 4 };
 		int k = 4;
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
@@ -44,7 +44,7 @@ public class Program
 
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
-		Console.WriteLine(ArrayDelete.RemoveDuplicatesII(nums));
+		//Console.WriteLine(ArrayDelete.RemoveDuplicatesII(nums));
 		//Console.WriteLine(SearchArray.CheckIfExist(nums));
 		//Console.WriteLine(SearchArray.validMountainArray(nums));
 		//int[] squared = InPlaceArray.ReplaceElements(nums);
@@ -69,8 +69,8 @@ public class Program
 		//int[] result = ArrayExercise3.DecompressRLElist(nums);
 		//int result = ArrayExercise3.CountMatches(items, ruleKey, ruleValue);
 		//Console.WriteLine(ArrayExercise3.Interpret(command));
-		string result = TruncateSentence.TruncateSentenceExce(s,k);
-		Console.WriteLine(result);
+		//string result = TruncateSentence.TruncateSentenceExce(s,k);
+		Console.WriteLine(DifferenceBetweenElementSum.DifferenceOfSum(nums));
 
 
 

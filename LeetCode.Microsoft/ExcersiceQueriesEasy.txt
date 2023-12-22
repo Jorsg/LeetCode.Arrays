@@ -204,3 +204,12 @@ Inner Join s2 On s.product_id = s2.product_id and s.year = s2.year
  Select class From Courses
  Group by class
  Having Count(class)>=5
+
+
+ /* 1729. Find Followers Count  */
+ Select user_id, Count(follower_id) as followers_count
+ From Followers 
+ Group by user_id
+
+ /* 627. Swap Salary */
+ Update Salary Set Sex = Case sex When 'm' Then 'f' Else 'm' End

@@ -10,11 +10,12 @@ public class Program
 		//foreach (int i in array) Console.WriteLine(i);
 		//string a = "11", b = "1";
 		//Console.WriteLine(AddBinary.AddBinaryExercesi(a,b));
-		string[] words = { "abc", "bcd", "aaaa", "cbc" };
+		string[] words = { "abc", "d", "defg" };
+		string[] words2 = { "abcddefg" };
 		char x = 'a';
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
-		Console.WriteLine(result);
+		Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
 		
 	}
 }
