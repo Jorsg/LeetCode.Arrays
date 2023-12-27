@@ -213,3 +213,10 @@ Inner Join s2 On s.product_id = s2.product_id and s.year = s2.year
 
  /* 627. Swap Salary */
  Update Salary Set Sex = Case sex When 'm' Then 'f' Else 'm' End
+
+ /* 1045. Customers Who Bought All Products  */
+ /*Medium*/
+Select Distinct c.customer_id
+From Customer c 
+Group by c.customer_id
+Having count(distinct product_key) = (Select count(distinct product_key)From Product)
