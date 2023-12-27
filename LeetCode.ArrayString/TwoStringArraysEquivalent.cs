@@ -35,6 +35,8 @@ namespace LeetCode.ArrayString
 
 		public static bool ArrayStringsAreEqual(string[] word1, string[] word2)
 		{
+			//Runtime: 70 ms
+			//Memory: 42.85 MB
 			string result1 = string.Empty;
 			string result2 = string.Empty;
 			bool ans = false;
