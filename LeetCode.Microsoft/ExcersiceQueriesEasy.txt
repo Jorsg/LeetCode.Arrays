@@ -220,3 +220,16 @@ Select Distinct c.customer_id
 From Customer c 
 Group by c.customer_id
 Having count(distinct product_key) = (Select count(distinct product_key)From Product)
+
+/* 1731. The Number of Employees Which Report to Each Employee  */
+/*Easy*/
+with reports_to as(
+  Select reports_to, Count(reports_to) as reports_count,
+         floor(cast(avg(age+0.50)as int)) as average_age    
+  From Employees
+  Group by reports_to
+  Having reports_to is not NULL
+)
+Select employee_id, name, reports_count, average_age
+From Employees
+Join reports_to On reports_to.reports_to = Employees.employee_id
