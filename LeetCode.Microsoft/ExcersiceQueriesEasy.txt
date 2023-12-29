@@ -233,3 +233,16 @@ with reports_to as(
 Select employee_id, name, reports_count, average_age
 From Employees
 Join reports_to On reports_to.reports_to = Employees.employee_id
+
+/* 511. Game Play Analysis I  */
+/* Easy */
+Select player_id, Min(event_date) as first_login 
+From Activity
+Group by player_id 
+
+/* 182. Duplicate Emails  */
+/*Easy*/
+Select email
+From Person
+Group by email
+Having count(email) > 1 

@@ -13,9 +13,11 @@ public class Program
 		string[] words = { "abc", "d", "defg" };
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
+		string s = "Hello";
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
-		Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
+		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
+		Console.WriteLine(s);	
 		
 	}
 }
