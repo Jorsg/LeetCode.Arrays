@@ -73,15 +73,15 @@ Where t.visit_id is null
 ) as Sub
 Group by Sub.customer_id
  
- /*197. Rising Temperature*/
- /* Write your T-SQL query statement below */
+/*197. Rising Temperature*/
+/* Write your T-SQL query statement below */
 Select w2.id
- From Weather w1 Inner Join Weather w2 On DATEDIFF(day, w1.recordDate, w2.recordDate) =1
- and w2.temperature > w1.temperature
+From Weather w1 Inner Join Weather w2 On DATEDIFF(day, w1.recordDate, w2.recordDate) =1
+and w2.temperature > w1.temperature
 
  /*
- SELECT
-   w1.id
+SELECT
+  w1.id
 FROM Weather as w1
     inner join Weather as w2 on w1.recordDate=DATEADD(DAY, 1, w2.recordDate)
 WHERE
@@ -127,16 +127,16 @@ Having count(t2.managerId) >= 5
 
 /* 1934. Confirmation Rate */
 Select s.user_id, Round(ISNULL([rate], 0),2) as confirmation_rate 
- From
-  (Select user_id,
-  (count(Case When action = 'confirmed' Then 1 Else null End)/
-  Cast(Count(user_id) as decimal(10,2))) as rate
-  From Confirmations Group by user_id) as c
-  right Join Signups s On s.user_id = c.user_Id
+From
+(Select user_id,
+(count(Case When action = 'confirmed' Then 1 Else null End)/
+Cast(Count(user_id) as decimal(10,2))) as rate
+From Confirmations Group by user_id) as c
+ right Join Signups s On s.user_id = c.user_Id
 
 
   /* 620. Not Boring Movies */
-   Select id, movie, description, rating
+  Select id, movie, description, rating
   From Cinema 
   Where id % 2 = 1 and description != 'boring'
   Order by rating desc
@@ -172,13 +172,13 @@ Select
 ROUND(AVG(Case When 
   (order_date = customer_pref_delivery_date) Then 100.0 Else 0 End),2) as immediate_percentage
 From (Select *, RANK() OVER (PARTITION BY customer_id Order by order_date) as rank
- From Delivery ) as data
- Where rank =1
+From Delivery ) as data
+Where rank =1
 
  /*  550. Game Play Analysis IV */
 
- With MinDate as (
-  Select player_id, Min(event_date) minDt From Activity Group by player_id
+With MinDate as (
+ Select player_id, Min(event_date) minDt From Activity Group by player_id
 )
 
 Select ROUND(COUNT(a.player_id)*1.0/(Select COUNT(DISTINCT player_id) From Activity),2) fraction
@@ -201,21 +201,20 @@ From Sales s
 Inner Join s2 On s.product_id = s2.product_id and s.year = s2.year
 
 /* 596. Classes More Than 5 Students */
- Select class From Courses
- Group by class
- Having Count(class)>=5
-
+Select class From Courses
+Group by class
+Having Count(class)>=5
 
  /* 1729. Find Followers Count  */
  Select user_id, Count(follower_id) as followers_count
  From Followers 
  Group by user_id
 
- /* 627. Swap Salary */
- Update Salary Set Sex = Case sex When 'm' Then 'f' Else 'm' End
+/* 627. Swap Salary */
+Update Salary Set Sex = Case sex When 'm' Then 'f' Else 'm' End
 
- /* 1045. Customers Who Bought All Products  */
- /*Medium*/
+/* 1045. Customers Who Bought All Products  */
+/*Medium*/
 Select Distinct c.customer_id
 From Customer c 
 Group by c.customer_id
@@ -246,3 +245,21 @@ Select email
 From Person
 Group by email
 Having count(email) > 1 
+
+/* 1050. Actors and Directors Who Cooperated At Least Three Times  */
+/* Easy */
+Select actor_id, director_id
+From ActorDirector
+Group by actor_id, director_id
+Having count(Distinct timestamp) > 2
+
+/* 1789. Primary Department for Each Employee  */
+/* Easy */
+With report as (
+  Select employee_id, Count(department_id) department From Employee Group by employee_id
+)
+
+Select e.employee_id, e.department_id
+From Employee e
+Join report r On e.employee_id = r.employee_id
+Where department = 1 or primary_flag ='Y'
