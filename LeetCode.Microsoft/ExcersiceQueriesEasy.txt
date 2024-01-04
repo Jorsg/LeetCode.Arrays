@@ -263,3 +263,9 @@ Select e.employee_id, e.department_id
 From Employee e
 Join report r On e.employee_id = r.employee_id
 Where department = 1 or primary_flag ='Y'
+
+/* 610. Triangle Judgement */
+/* Easy */
+Select x, y, z,
+(Case When (x + y > z) and  (y + z > x) and (x + z > y) Then 'Yes' Else 'No' End) as triangle
+From Triangle
