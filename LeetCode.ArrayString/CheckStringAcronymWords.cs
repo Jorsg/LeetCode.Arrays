@@ -21,6 +21,8 @@ namespace LeetCode.ArrayString
 		//Explanation: The first character in the words "alice", "bob", and "charlie" are 'a', 'b', and 'c', respectively.Hence, s = "abc" is the acronym.
 		public static bool IsAcronym(IList<string> words, string s)
 		{
+			//Runtime: 76 ms
+			//Memory: 50.29 MB
 			bool response = true;
 			if (words.Count != s.Length)
 				return response = false;
