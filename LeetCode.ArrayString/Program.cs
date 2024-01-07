@@ -10,14 +10,14 @@ public class Program
 		//foreach (int i in array) Console.WriteLine(i);
 		//string a = "11", b = "1";
 		//Console.WriteLine(AddBinary.AddBinaryExercesi(a,b));
-		string[] words = { "abc", "d", "defg" };
+		string[] words = { "an", "apple" };
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
-		string s = "is2 sentence4 This1 a3";
+		string s = "a";
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
-		Console.WriteLine(SortingtheSentence.SortSentence(s));	
+		Console.WriteLine(CheckStringAcronymWords.IsAcronym(words,s));	
 		
 	}
 }

@@ -269,3 +269,26 @@ Where department = 1 or primary_flag ='Y'
 Select x, y, z,
 (Case When (x + y > z) and  (y + z > x) and (x + z > y) Then 'Yes' Else 'No' End) as triangle
 From Triangle
+
+/* 607. Sales Person */
+/* Easy */
+Select s.name 
+From SalesPerson s
+Left join Orders as o On s.sales_id = o.sales_id
+Left Join Company c On o.com_id = c.com_id
+Group by s.name
+Having Count(case when c.name = 'RED' Then 1 End) = 0
+
+/* 183. Customers Who Never Order */
+/* Easy Mi codigo */ 
+Select c.name as Customers From Customers c 
+left Join Orders o On c.id = o.customerId
+Where o.customerId is null
+
+/* Codigo LeetCode mas eficiente*/
+SELECT c.name AS Customers
+FROM Customers AS c
+WHERE NOT EXISTS 
+(SELECT * 
+FROM Orders AS o 
+WHERE c.id = o.customerId)
