@@ -292,3 +292,21 @@ WHERE NOT EXISTS
 (SELECT * 
 FROM Orders AS o 
 WHERE c.id = o.customerId)
+
+/* 586. Customer Placing the Largest Number of Orders  */
+/* Easy */
+Select Top 1 customer_number
+ From Orders
+Group by customer_number
+Order by Count(customer_number) desc;
+
+
+/* 180. Consecutive Numbers */
+/* Medium */
+Select Distinct num as ConsecutiveNums
+From(
+Select *, (id - Row_Number() over (Partition by num order by id) 
+ )as G From Logs
+) as T
+Group by G, num
+Having Count(*) >= 3

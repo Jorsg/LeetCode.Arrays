@@ -3,7 +3,6 @@ D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\bin\Debug\net7.0\LeetCode.Hash
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\bin\Debug\net7.0\LeetCode.HashTable.runtimeconfig.json
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\bin\Debug\net7.0\LeetCode.HashTable.dll
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\bin\Debug\net7.0\LeetCode.HashTable.pdb
-D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\LeetCode.HashTable.csproj.AssemblyReference.cache
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\LeetCode.HashTable.GeneratedMSBuildEditorConfig.editorconfig
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\LeetCode.HashTable.AssemblyInfoInputs.cache
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\LeetCode.HashTable.AssemblyInfo.cs
@@ -13,3 +12,4 @@ D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\refint\LeetCo
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\LeetCode.HashTable.pdb
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\LeetCode.HashTable.genruntimeconfig.cache
 D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\ref\LeetCode.HashTable.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.HashTable\obj\Debug\net7.0\LeetCode.HashTable.sourcelink.json

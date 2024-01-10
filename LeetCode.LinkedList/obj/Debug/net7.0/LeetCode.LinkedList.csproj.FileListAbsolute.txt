@@ -3,7 +3,6 @@ D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\bin\Debug\net7.0\LeetCode.Lin
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\bin\Debug\net7.0\LeetCode.LinkedList.runtimeconfig.json
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\bin\Debug\net7.0\LeetCode.LinkedList.dll
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\bin\Debug\net7.0\LeetCode.LinkedList.pdb
-D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\LeetCode.LinkedList.csproj.AssemblyReference.cache
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\LeetCode.LinkedList.GeneratedMSBuildEditorConfig.editorconfig
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\LeetCode.LinkedList.AssemblyInfoInputs.cache
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\LeetCode.LinkedList.AssemblyInfo.cs
@@ -13,3 +12,4 @@ D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\refint\LeetC
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\LeetCode.LinkedList.pdb
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\LeetCode.LinkedList.genruntimeconfig.cache
 D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\ref\LeetCode.LinkedList.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.LinkedList\obj\Debug\net7.0\LeetCode.LinkedList.sourcelink.json
