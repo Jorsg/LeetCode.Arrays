@@ -13,11 +13,11 @@ public class Program
 		string[] words = { "an", "apple" };
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
-		string s = "a";
+		string s = "l|*e*et|c**o|*de|";
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
-		Console.WriteLine(CheckStringAcronymWords.IsAcronym(words,s));	
+		Console.WriteLine(CountAsterisksExercise.CountAsterisks(s));	
 		
 	}
 }
