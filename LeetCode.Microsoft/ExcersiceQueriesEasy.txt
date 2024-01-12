@@ -310,3 +310,23 @@ Select *, (id - Row_Number() over (Partition by num order by id)
 ) as T
 Group by G, num
 Having Count(*) >= 3
+/* 1407. Top Travellers  */
+/* Easy */
+Select u.name, ISNULL(SUM(distance), 0) as travelled_distance
+From Users u
+left Join Rides r On u.id = r.user_id
+Group by r.user_id, u.name
+Order by travelled_distance desc, u.name
+
+/* 1158. Market Analysis I */
+/* Medium */
+Select 
+u.user_id as buyer_id,
+u.join_date,
+Count(Case when o.order_date Is not null and o.order_date Between '2019-01-01'
+and '2019-12-31' Then 1 End) as orders_in_2019
+From Orders as o
+Full Outer Join Users as u
+On u.user_id = o.buyer_id
+Group by user_id, join_date
+Order by buyer_id
