@@ -330,3 +330,13 @@ Full Outer Join Users as u
 On u.user_id = o.buyer_id
 Group by user_id, join_date
 Order by buyer_id
+
+/* 1164. Product Price at a Given Date */
+/* Medium  */
+Select distinct product_id, 
+Coalesce((Select top 1 new_price
+ From Products p 
+ Where p.change_date <= '2019-08-16'
+ and p.product_id = p1.product_id
+Order by change_date desc), 10) price
+From Products p1
