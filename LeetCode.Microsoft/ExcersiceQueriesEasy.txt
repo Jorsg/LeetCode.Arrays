@@ -340,3 +340,35 @@ Coalesce((Select top 1 new_price
  and p.product_id = p1.product_id
 Order by change_date desc), 10) price
 From Products p1
+
+/* 1204. Last Person to Fit in the Bus  */
+/* Medium */
+Select top 1 person_name 
+From
+(
+  Select person_name, turn, sum(weight) over (order by turn) cum From Queue
+) a Where cum <= 1000
+Order by turn desc
+
+
+/ * 1907. Count Salary Categories */
+/* Medium */
+
+With catego as(
+  Select account_id, (Case When income < 20000 Then 'Low Salary'
+                           when income between 20000 and 50000 Then 'Average Salary'
+                           when income > 50000 Then 'High Salary'
+                           Else '' End) category
+                           From Accounts
+),
+Salary as (
+  Select 'Low Salary' as category
+  Union
+  Select 'Average Salary' as category
+  Union
+  Select 'High Salary' as category
+)
+Select s.category, Count(account_id) as accounts_count
+From Salary s Left Join catego c
+On s.category = c.category
+Group by s.category
