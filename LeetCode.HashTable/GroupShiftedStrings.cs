@@ -26,7 +26,7 @@ namespace LeetCode.HashTable
 		public IList<IList<string>> GroupStrings(string[] strings)
 		{
 			var dict = new Dictionary<string, List<string>>();
-			foreach (String s in strings)
+			foreach (string s in strings)
 			{
 				var sb = new StringBuilder();
 				for (int i = 1; i < s.Length; i++)
@@ -38,7 +38,7 @@ namespace LeetCode.HashTable
 					sb.Append("-");
 				}
 				var temp = sb.ToString();
-				if (String.IsNullOrEmpty(temp))
+				if (string.IsNullOrEmpty(temp))
 					temp = "placeholder";
 				if (!dict.ContainsKey(temp))
 					dict.Add(temp, new List<string>());
