@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.HashTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24745632f6ec455560a60b02fa0a217a19ef465")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57ac0eb74010aea097c2ec780f2d51be3acb1482")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.HashTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.HashTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

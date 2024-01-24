@@ -14,10 +14,11 @@ public class Program
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
 		string s = "l|*e*et|c**o|*de|";
+		int num = 8;
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
-		Console.WriteLine(CountAsterisksExercise.CountAsterisks(s));	
+		Console.WriteLine(NumeroConsecutivo.NumeroGuay(num));	
 		
 	}
 }
