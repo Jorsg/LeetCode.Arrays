@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\GroupSoldProductsByDate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:GroupSoldProductsByDate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\setmismatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\setmismatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\GroupSoldProductsByDate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:GroupSoldProductsByDate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\longestsubstringwithoutrepeatingcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\longestsubstringwithoutrepeatingcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\firstuniquecharacterstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\firstuniquecharacterstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ExchangeSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ExchangeSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|solutionrelative:leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ExchangeSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ExchangeSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,13 +55,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GroupSoldProductsByDate.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\GroupSoldProductsByDate.sql",
-              "RelativeDocumentMoniker": "GroupSoldProductsByDate.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\GroupSoldProductsByDate.sql",
-              "RelativeToolTip": "GroupSoldProductsByDate.sql",
+              "Title": "SetMismatch.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\SetMismatch.cs",
+              "RelativeDocumentMoniker": "LeetCode.HashTable\\SetMismatch.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\SetMismatch.cs*",
+              "RelativeToolTip": "LeetCode.HashTable\\SetMismatch.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T01:49:32.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeSeats.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ExchangeSeats.sql",
+              "RelativeDocumentMoniker": "ExchangeSeats.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ExchangeSeats.sql",
+              "RelativeToolTip": "ExchangeSeats.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-01-24T21:32:23.969Z",
+              "WhenOpened": "2024-02-01T01:36:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcersiceQueriesEasy.txt",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "RelativeDocumentMoniker": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "RelativeToolTip": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-01-31T23:14:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode.HashTable\\Program.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\Program.cs",
+              "RelativeToolTip": "LeetCode.HashTable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T01:41:12.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstUniqueCharacterString.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "RelativeDocumentMoniker": "LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "RelativeToolTip": "LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T01:48:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LongestSubstringWithoutRepeatingCharacters.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
+              "RelativeDocumentMoniker": "LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
+              "RelativeToolTip": "LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T01:29:36.096Z",
               "EditorCaption": ""
             }
           ]

@@ -19,12 +19,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		BigCountries.sql = BigCountries.sql
 		DeleteDuplicateEmails.sql = DeleteDuplicateEmails.sql
 		EmployeesWhoseManagerLeftCompany.sql = EmployeesWhoseManagerLeftCompany.sql
+		ExchangeSeats.sql = ExchangeSeats.sql
 		FindCustomerReferee.sql = FindCustomerReferee.sql
+		FindUsersWithValidE-Mails.sql = FindUsersWithValidE-Mails.sql
 		FixNamesTable.sql = FixNamesTable.sql
 		GroupSoldProductsByDate.sql = GroupSoldProductsByDate.sql
 		InvalidTweets.sql = InvalidTweets.sql
-		RecyclableLowFatProducts.sql = RecyclableLowFatProducts.sql
+		ListProductsOrderedPeriod.sql = ListProductsOrderedPeriod.sql
 		PatientsWithCondition.sql = PatientsWithCondition.sql
+		RecyclableLowFatProducts.sql = RecyclableLowFatProducts.sql
 		ReplaceEmployeeIDUniqueIdentifier.sql = ReplaceEmployeeIDUniqueIdentifier.sql
 	EndProjectSection
 EndProject
