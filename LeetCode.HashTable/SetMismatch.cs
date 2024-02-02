@@ -58,7 +58,7 @@ namespace LeetCode.HashTable
 			//Runtime:169 ms
 			//Memory: 57.58 MB
 			//This is a solution from LeetCode
-			return [nums.Sum() - nums.Distinct().Sum(), (nums.Length * (nums.Length + 1) / 2) - nums.Distinct().Sum()];
+			return null;//[nums.Sum() - nums.Distinct().Sum(), (nums.Length * (nums.Length + 1) / 2) - nums.Distinct().Sum()];
 
 		}
 
