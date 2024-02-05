@@ -21,14 +21,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		EmployeesWhoseManagerLeftCompany.sql = EmployeesWhoseManagerLeftCompany.sql
 		ExchangeSeats.sql = ExchangeSeats.sql
 		FindCustomerReferee.sql = FindCustomerReferee.sql
+		FindTeamSize.sql = FindTeamSize.sql
 		FindUsersWithValidE-Mails.sql = FindUsersWithValidE-Mails.sql
 		FixNamesTable.sql = FixNamesTable.sql
 		GroupSoldProductsByDate.sql = GroupSoldProductsByDate.sql
 		InvalidTweets.sql = InvalidTweets.sql
 		ListProductsOrderedPeriod.sql = ListProductsOrderedPeriod.sql
+		MovieRating.sql = MovieRating.sql
 		PatientsWithCondition.sql = PatientsWithCondition.sql
 		RecyclableLowFatProducts.sql = RecyclableLowFatProducts.sql
 		ReplaceEmployeeIDUniqueIdentifier.sql = ReplaceEmployeeIDUniqueIdentifier.sql
+		StudentsInvalidDepartments.sql = StudentsInvalidDepartments.sql
 	EndProjectSection
 EndProject
 Global
