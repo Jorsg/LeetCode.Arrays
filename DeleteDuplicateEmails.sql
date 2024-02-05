@@ -45,3 +45,7 @@ Output:
 +----+------------------+
 Explanation: john@example.com is repeated two times. We keep the row with the smallest Id = 1.
 */
+
+/* Write your T-SQL query statement below */
+Delete From Person Where id
+NOT IN (Select Min(id) as id From Person Group by email)
