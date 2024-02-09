@@ -21,6 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		EmployeesWhoseManagerLeftCompany.sql = EmployeesWhoseManagerLeftCompany.sql
 		ExchangeSeats.sql = ExchangeSeats.sql
 		FindCustomerReferee.sql = FindCustomerReferee.sql
+		FindCustomersPositiveRevenueYear.sql = FindCustomersPositiveRevenueYear.sql
 		FindTeamSize.sql = FindTeamSize.sql
 		FindUsersWithValidE-Mails.sql = FindUsersWithValidE-Mails.sql
 		FixNamesTable.sql = FixNamesTable.sql
@@ -32,6 +33,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		RecyclableLowFatProducts.sql = RecyclableLowFatProducts.sql
 		ReplaceEmployeeIDUniqueIdentifier.sql = ReplaceEmployeeIDUniqueIdentifier.sql
 		StudentsInvalidDepartments.sql = StudentsInvalidDepartments.sql
+		WarehouseManager.sql = WarehouseManager.sql
 	EndProjectSection
 EndProject
 Global
