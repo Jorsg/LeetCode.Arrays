@@ -13,14 +13,15 @@ public class Program
 		string[] words = { "an", "apple" };
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
-		string s = "l|*e*et|c**o|*de|";
+		string s = "a1c1e1";
 		int num = 8;
 		string key = "the quick brown fox jumps over the lazy dog", message = "vkbs bs t suepuv";
 
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
-		Console.WriteLine(DecodeMessage.DecodeMessageExercise(key, message));	
+				
+		Console.WriteLine(ReplaceAllDigitsCharacters.ReplaceDigits(s));	
 		
 	}
 }

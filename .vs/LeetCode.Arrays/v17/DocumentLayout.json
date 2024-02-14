@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\sentenceispangram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\sentenceispangram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\decodemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\decodemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\replacealldigitscharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\replacealldigitscharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\WarehouseManager.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:WarehouseManager.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\decodemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\decodemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindCustomersPositiveRevenueYear.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindCustomersPositiveRevenueYear.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ListProductsOrderedPeriod.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ListProductsOrderedPeriod.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ListProductsOrderedPeriod.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ListProductsOrderedPeriod.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindCustomersPositiveRevenueYear.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindCustomersPositiveRevenueYear.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\WarehouseManager.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:WarehouseManager.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\sentenceispangram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\sentenceispangram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,77 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ReplaceAllDigitsCharacters.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ReplaceAllDigitsCharacters.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\ReplaceAllDigitsCharacters.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ReplaceAllDigitsCharacters.cs*",
+              "RelativeToolTip": "LeetCode.ArrayString\\ReplaceAllDigitsCharacters.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T01:11:00.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\Program.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs",
               "RelativeToolTip": "LeetCode.ArrayString\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-07T01:10:59.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DecodeMessage.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\DecodeMessage.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\DecodeMessage.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\DecodeMessage.cs",
               "RelativeToolTip": "LeetCode.ArrayString\\DecodeMessage.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAXAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-06T23:56:16.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SentenceIsPangram.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\SentenceIsPangram.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\SentenceIsPangram.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\SentenceIsPangram.cs",
               "RelativeToolTip": "LeetCode.ArrayString\\SentenceIsPangram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-06T23:34:39.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WarehouseManager.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\WarehouseManager.sql",
-              "RelativeDocumentMoniker": "WarehouseManager.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\WarehouseManager.sql",
-              "RelativeToolTip": "WarehouseManager.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-06T23:26:19.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FindCustomersPositiveRevenueYear.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\FindCustomersPositiveRevenueYear.sql",
-              "RelativeDocumentMoniker": "FindCustomersPositiveRevenueYear.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\FindCustomersPositiveRevenueYear.sql",
-              "RelativeToolTip": "FindCustomersPositiveRevenueYear.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-06T02:04:35.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListProductsOrderedPeriod.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ListProductsOrderedPeriod.sql",
-              "RelativeDocumentMoniker": "ListProductsOrderedPeriod.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ListProductsOrderedPeriod.sql",
-              "RelativeToolTip": "ListProductsOrderedPeriod.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-06T00:52:08.665Z",
               "EditorCaption": ""
             }
           ]
