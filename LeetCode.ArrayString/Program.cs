@@ -10,7 +10,7 @@ public class Program
 		//foreach (int i in array) Console.WriteLine(i);
 		//string a = "11", b = "1";
 		//Console.WriteLine(AddBinary.AddBinaryExercesi(a,b));
-		string[] words = { "an", "apple" };
+		string[] words = { "gin", "zen", "gig", "msg" };
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
 		string s = "a1c1e1";
@@ -21,7 +21,7 @@ public class Program
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
 				
-		Console.WriteLine(ReplaceAllDigitsCharacters.ReplaceDigits(s));	
+		Console.WriteLine(UniqueMorseCodeWords.UniqueMorseRepresentations(words));	
 		
 	}
 }
