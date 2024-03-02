@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindExpensiveCities.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindExpensiveCities.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\removeoutermostparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\removeoutermostparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisII.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ProductSalesAnalysisII.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{0D068D36-E7E4-4751-A1BD-BC5F5D926565}|LeetCode.QueueStack\\LeetCode.QueueStack.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.queuestack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D068D36-E7E4-4751-A1BD-BC5F5D926565}|LeetCode.QueueStack\\LeetCode.QueueStack.csproj|solutionrelative:leetcode.queuestack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|solutionrelative:leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisII.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ProductSalesAnalysisII.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindExpensiveCities.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindExpensiveCities.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,50 +43,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FindExpensiveCities.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\FindExpensiveCities.sql",
-              "RelativeDocumentMoniker": "FindExpensiveCities.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\FindExpensiveCities.sql",
-              "RelativeToolTip": "FindExpensiveCities.sql",
+              "Title": "CreateSessionBarChart.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql",
+              "RelativeDocumentMoniker": "CreateSessionBarChart.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql",
+              "RelativeToolTip": "CreateSessionBarChart.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-26T00:46:24.995Z",
+              "WhenOpened": "2024-03-02T22:21:47.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShortestDistanceinLine.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql",
-              "RelativeDocumentMoniker": "ShortestDistanceinLine.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql",
-              "RelativeToolTip": "ShortestDistanceinLine.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-26T00:45:13.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExcersiceQueriesEasy.txt",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "RelativeDocumentMoniker": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "RelativeToolTip": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "ViewState": "AQIAAI4AAAAAAAAAAAApwKoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-23T00:29:19.436Z",
+              "Title": "RemoveOutermostParentheses.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:05:17.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductSalesAnalysisII.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisII.sql",
-              "RelativeDocumentMoniker": "ProductSalesAnalysisII.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisII.sql",
-              "RelativeToolTip": "ProductSalesAnalysisII.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-22T02:05:38.07Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.QueueStack\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode.QueueStack\\Program.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.QueueStack\\Program.cs",
+              "RelativeToolTip": "LeetCode.QueueStack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:53:52.273Z",
               "EditorCaption": ""
             }
           ]
