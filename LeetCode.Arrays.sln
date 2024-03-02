@@ -21,6 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		BigCountries.sql = BigCountries.sql
 		BikesLastTimeUsed.sql = BikesLastTimeUsed.sql
 		ConvertDateFormat.sql = ConvertDateFormat.sql
+		CreateSessionBarChart.sql = CreateSessionBarChart.sql
 		DeleteDuplicateEmails.sql = DeleteDuplicateEmails.sql
 		EmployeesWhoseManagerLeftCompany.sql = EmployeesWhoseManagerLeftCompany.sql
 		ExchangeSeats.sql = ExchangeSeats.sql
@@ -33,20 +34,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		GroupSoldProductsByDate.sql = GroupSoldProductsByDate.sql
 		ImmediateFoodDeliveryI.sql = ImmediateFoodDeliveryI.sql
 		InvalidTweets.sql = InvalidTweets.sql
+		LatestLogin2020.sql = LatestLogin2020.sql
 		ListProductsOrderedPeriod.sql = ListProductsOrderedPeriod.sql
 		Low-QualityProblems.sql = Low-QualityProblems.sql
 		MovieRating.sql = MovieRating.sql
+		NumberRichCustomers.sql = NumberRichCustomers.sql
 		PatientsWithCondition.sql = PatientsWithCondition.sql
 		ProductPriceEachStore.sql = ProductPriceEachStore.sql
 		ProductSalesAnalysisII.sql = ProductSalesAnalysisII.sql
 		RearrangeProductsTable.sql = RearrangeProductsTable.sql
 		RecyclableLowFatProducts.sql = RecyclableLowFatProducts.sql
+		ReformatDepartmentTable.sql = ReformatDepartmentTable.sql
 		ReplaceEmployeeIDUniqueIdentifier.sql = ReplaceEmployeeIDUniqueIdentifier.sql
 		ShortestDistanceinLine.sql = ShortestDistanceinLine.sql
+		SortOlympicTable.sql = SortOlympicTable.sql
 		StudentsInvalidDepartments.sql = StudentsInvalidDepartments.sql
 		UniqueOrdersCustomersPerMonth.sql = UniqueOrdersCustomersPerMonth.sql
 		WarehouseManager.sql = WarehouseManager.sql
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.QueueStack", "LeetCode.QueueStack\LeetCode.QueueStack.csproj", "{0D068D36-E7E4-4751-A1BD-BC5F5D926565}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +81,10 @@ Global
 		{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D068D36-E7E4-4751-A1BD-BC5F5D926565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D068D36-E7E4-4751-A1BD-BC5F5D926565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D068D36-E7E4-4751-A1BD-BC5F5D926565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D068D36-E7E4-4751-A1BD-BC5F5D926565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
