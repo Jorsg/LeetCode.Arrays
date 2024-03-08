@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\removeoutermostparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\removeoutermostparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\maximumnestingdepthparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\maximumnestingdepthparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D068D36-E7E4-4751-A1BD-BC5F5D926565}|LeetCode.QueueStack\\LeetCode.QueueStack.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.queuestack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D068D36-E7E4-4751-A1BD-BC5F5D926565}|LeetCode.QueueStack\\LeetCode.QueueStack.csproj|solutionrelative:leetcode.queuestack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CreateSessionBarChart.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindCandidatesDataScientistPosition.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindCandidatesDataScientistPosition.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindCandidatesDataScientistPosition.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindCandidatesDataScientistPosition.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,39 +51,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateSessionBarChart.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql",
-              "RelativeDocumentMoniker": "CreateSessionBarChart.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\CreateSessionBarChart.sql",
-              "RelativeToolTip": "CreateSessionBarChart.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-02T22:21:47.871Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\Program.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs*",
+              "RelativeToolTip": "LeetCode.ArrayString\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:16:49.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RemoveOutermostParentheses.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
-              "RelativeDocumentMoniker": "LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
-              "RelativeToolTip": "LeetCode.ArrayString\\RemoveOutermostParentheses.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Title": "MaximumNestingDepthParentheses.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T02:05:17.625Z",
+              "WhenOpened": "2024-03-07T02:13:38.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.QueueStack\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode.QueueStack\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.QueueStack\\Program.cs",
-              "RelativeToolTip": "LeetCode.QueueStack\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T00:53:52.273Z",
+              "Title": "TheWinnerUniversity.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql",
+              "RelativeDocumentMoniker": "TheWinnerUniversity.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql",
+              "RelativeToolTip": "TheWinnerUniversity.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-06T02:39:00.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindCandidatesDataScientistPosition.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\FindCandidatesDataScientistPosition.sql",
+              "RelativeDocumentMoniker": "FindCandidatesDataScientistPosition.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\FindCandidatesDataScientistPosition.sql",
+              "RelativeToolTip": "FindCandidatesDataScientistPosition.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-05T23:59:55.082Z",
               "EditorCaption": ""
             }
           ]

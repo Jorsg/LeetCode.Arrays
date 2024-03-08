@@ -14,7 +14,7 @@ public class Program
 		string[] words = { "ad", "bd", "aaab", "baa", "badab" };
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
-		string s = "string";
+		string s = "(1+(2*3)+((8)/4))+1";
 		int num = 8;
 		string key = "the quick brown fox jumps over the lazy dog", message = "vkbs bs t suepuv";
 
@@ -22,7 +22,7 @@ public class Program
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
 		
-        Console.WriteLine(FaultyKeyboard.FinalString(s));	
+        Console.WriteLine(MaximumNestingDepthParentheses.MaxDepth(s));	
 		
 	}
 }
