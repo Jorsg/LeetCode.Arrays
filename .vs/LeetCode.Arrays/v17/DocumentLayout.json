@@ -3,76 +3,48 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\EmployeesEarningMoreThanTheirManagers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:EmployeesEarningMoreThanTheirManagers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CountArtistOccurrencesSpotifyRankingList.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CountArtistOccurrencesSpotifyRankingList.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FormChemicalBond.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FormChemicalBond.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ConcatenateNameProfession.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ConcatenateNameProfession.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindLatestSalaries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindLatestSalaries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\TotalTraveledDistance.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:TotalTraveledDistance.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ProductSalesAnalysisV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\SalesAnalysisI.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:SalesAnalysisI.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|solutionrelative:leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\TotalTraveledDistance.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:TotalTraveledDistance.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\SalesAnalysisI.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:SalesAnalysisI.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ShortestDistanceinLine.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:TheWinnerUniversity.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ConcatenateNameProfession.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ConcatenateNameProfession.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FormChemicalBond.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FormChemicalBond.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CountArtistOccurrencesSpotifyRankingList.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CountArtistOccurrencesSpotifyRankingList.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\EmployeesEarningMoreThanTheirManagers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:EmployeesEarningMoreThanTheirManagers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -99,124 +71,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeesEarningMoreThanTheirManagers.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\EmployeesEarningMoreThanTheirManagers.sql",
-              "RelativeDocumentMoniker": "EmployeesEarningMoreThanTheirManagers.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\EmployeesEarningMoreThanTheirManagers.sql",
-              "RelativeToolTip": "EmployeesEarningMoreThanTheirManagers.sql",
+              "Title": "ReportedPosts.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql",
+              "RelativeDocumentMoniker": "ReportedPosts.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql",
+              "RelativeToolTip": "ReportedPosts.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-11T22:41:38.551Z",
+              "WhenOpened": "2024-03-18T23:06:48.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CountArtistOccurrencesSpotifyRankingList.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\CountArtistOccurrencesSpotifyRankingList.sql",
-              "RelativeDocumentMoniker": "CountArtistOccurrencesSpotifyRankingList.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\CountArtistOccurrencesSpotifyRankingList.sql",
-              "RelativeToolTip": "CountArtistOccurrencesSpotifyRankingList.sql",
+              "Title": "ConsecutiveAvailableSeats.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql",
+              "RelativeDocumentMoniker": "ConsecutiveAvailableSeats.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql",
+              "RelativeToolTip": "ConsecutiveAvailableSeats.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-10T21:43:58.263Z",
+              "WhenOpened": "2024-03-18T23:05:48.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormChemicalBond.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\FormChemicalBond.sql",
-              "RelativeDocumentMoniker": "FormChemicalBond.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\FormChemicalBond.sql",
-              "RelativeToolTip": "FormChemicalBond.sql",
+              "Title": "WeatherTypeEachCountry.sql",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql",
+              "RelativeDocumentMoniker": "WeatherTypeEachCountry.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql",
+              "RelativeToolTip": "WeatherTypeEachCountry.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-10T21:19:07.459Z",
+              "WhenOpened": "2024-03-16T20:33:58.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ConcatenateNameProfession.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ConcatenateNameProfession.sql",
-              "RelativeDocumentMoniker": "ConcatenateNameProfession.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ConcatenateNameProfession.sql",
-              "RelativeToolTip": "ConcatenateNameProfession.sql",
+              "Title": "CustomerOrderFrequency.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql",
+              "RelativeDocumentMoniker": "CustomerOrderFrequency.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql",
+              "RelativeToolTip": "CustomerOrderFrequency.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-10T21:15:45.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShortestDistanceinLine.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql",
-              "RelativeDocumentMoniker": "ShortestDistanceinLine.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ShortestDistanceinLine.sql",
-              "RelativeToolTip": "ShortestDistanceinLine.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-08T01:06:10.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SalesAnalysisI.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\SalesAnalysisI.sql",
-              "RelativeDocumentMoniker": "SalesAnalysisI.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\SalesAnalysisI.sql",
-              "RelativeToolTip": "SalesAnalysisI.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-08T01:06:03.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TotalTraveledDistance.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TotalTraveledDistance.sql",
-              "RelativeDocumentMoniker": "TotalTraveledDistance.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TotalTraveledDistance.sql",
-              "RelativeToolTip": "TotalTraveledDistance.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-08T00:54:09.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode.ArrayString\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs",
-              "RelativeToolTip": "LeetCode.ArrayString\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T02:16:49.788Z",
+              "WhenOpened": "2024-03-14T02:12:53.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MaximumNestingDepthParentheses.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
-              "RelativeDocumentMoniker": "LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
-              "RelativeToolTip": "LeetCode.ArrayString\\MaximumNestingDepthParentheses.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwCwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T02:13:38.908Z",
-              "EditorCaption": ""
+              "Title": "FindLatestSalaries.sql",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\FindLatestSalaries.sql",
+              "RelativeDocumentMoniker": "FindLatestSalaries.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\FindLatestSalaries.sql",
+              "RelativeToolTip": "FindLatestSalaries.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-14T02:11:47.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TheWinnerUniversity.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql",
-              "RelativeDocumentMoniker": "TheWinnerUniversity.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TheWinnerUniversity.sql",
-              "RelativeToolTip": "TheWinnerUniversity.sql",
+              "DocumentIndex": 5,
+              "Title": "ProductSalesAnalysisV.sql",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisV.sql",
+              "RelativeDocumentMoniker": "ProductSalesAnalysisV.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisV.sql",
+              "RelativeToolTip": "ProductSalesAnalysisV.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-06T02:39:00.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T02:10:19.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcersiceQueriesEasy.txt",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "RelativeDocumentMoniker": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "RelativeToolTip": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
+              "ViewState": "AQIAAEwBAAAAAAAAAAApwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-14T01:27:30.519Z"
             }
           ]
         }
