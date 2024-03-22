@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindUsersWithValidE-Mails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindUsersWithValidE-Mails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindLatestSalaries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindLatestSalaries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ProductSalesAnalysisV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A9EFE5AA-FFCC-4646-BCF5-B96F7665A7A6}|LeetCode.Microsoft\\LeetCode.Microsoft.csproj|solutionrelative:leetcode.microsoft\\excersicequerieseasy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:CustomerOrderFrequency.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:WeatherTypeEachCountry.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ConsecutiveAvailableSeats.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:ReportedPosts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|D:\\Repos\\repos\\LeetCode.Arrays\\FindUsersWithValidE-Mails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|DataBaseQueries{891B0441-3EC4-4EC2-B8E5-E01B7576E714}|solutionrelative:FindUsersWithValidE-Mails.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,84 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReportedPosts.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql",
-              "RelativeDocumentMoniker": "ReportedPosts.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ReportedPosts.sql",
-              "RelativeToolTip": "ReportedPosts.sql",
+              "Title": "FindUsersWithValidE-Mails.sql ",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\FindUsersWithValidE-Mails.sql",
+              "RelativeDocumentMoniker": "FindUsersWithValidE-Mails.sql",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\FindUsersWithValidE-Mails.sql",
+              "RelativeToolTip": "FindUsersWithValidE-Mails.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-18T23:06:48.983Z",
+              "WhenOpened": "2024-03-18T23:14:08.608Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsecutiveAvailableSeats.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql",
-              "RelativeDocumentMoniker": "ConsecutiveAvailableSeats.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ConsecutiveAvailableSeats.sql",
-              "RelativeToolTip": "ConsecutiveAvailableSeats.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-18T23:05:48.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherTypeEachCountry.sql",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql",
-              "RelativeDocumentMoniker": "WeatherTypeEachCountry.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\WeatherTypeEachCountry.sql",
-              "RelativeToolTip": "WeatherTypeEachCountry.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-16T20:33:58.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerOrderFrequency.sql ",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql",
-              "RelativeDocumentMoniker": "CustomerOrderFrequency.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\CustomerOrderFrequency.sql",
-              "RelativeToolTip": "CustomerOrderFrequency.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-14T02:12:53.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FindLatestSalaries.sql",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\FindLatestSalaries.sql",
-              "RelativeDocumentMoniker": "FindLatestSalaries.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\FindLatestSalaries.sql",
-              "RelativeToolTip": "FindLatestSalaries.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-14T02:11:47.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductSalesAnalysisV.sql",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisV.sql",
-              "RelativeDocumentMoniker": "ProductSalesAnalysisV.sql",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\ProductSalesAnalysisV.sql",
-              "RelativeToolTip": "ProductSalesAnalysisV.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-14T02:10:19.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExcersiceQueriesEasy.txt",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "RelativeDocumentMoniker": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "RelativeToolTip": "LeetCode.Microsoft\\ExcersiceQueriesEasy.txt",
-              "ViewState": "AQIAAEwBAAAAAAAAAAApwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-14T01:27:30.519Z"
             }
           ]
         }
