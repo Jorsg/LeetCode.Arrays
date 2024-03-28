@@ -15,6 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Microsoft", "LeetC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBaseQueries", "{891B0441-3EC4-4EC2-B8E5-E01B7576E714}"
 	ProjectSection(SolutionItems) = preProject
+		Ad-FreeSessions.sql = Ad-FreeSessions.sql
 		AdsPerformance.sql = AdsPerformance.sql
 		AllValidTripletsCanRepresentCountry.sql = AllValidTripletsCanRepresentCountry.sql
 		ArticleViewsI.sql = ArticleViewsI.sql
@@ -42,6 +43,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		FixNamesTable.sql = FixNamesTable.sql
 		FixProductNameFormat.sql = FixProductNameFormat.sql
 		FormChemicalBond.sql = FormChemicalBond.sql
+		GamePlayAnalysisII.sql = GamePlayAnalysisII.sql
 		GroupSoldProductsByDate.sql = GroupSoldProductsByDate.sql
 		HighestSalariesDifference.sql = HighestSalariesDifference.sql
 		ImmediateFoodDeliveryI.sql = ImmediateFoodDeliveryI.sql
@@ -69,6 +71,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		TheWinnerUniversity.sql = TheWinnerUniversity.sql
 		TotalTraveledDistance.sql = TotalTraveledDistance.sql
 		UniqueOrdersCustomersPerMonth.sql = UniqueOrdersCustomersPerMonth.sql
+		UsersActivelyRequestConfirmationMessages.sql = UsersActivelyRequestConfirmationMessages.sql
 		WarehouseManager.sql = WarehouseManager.sql
 		WeatherTypeEachCountry.sql = WeatherTypeEachCountry.sql
 	EndProjectSection
