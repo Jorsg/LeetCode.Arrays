@@ -23,6 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 		BigCountries.sql = BigCountries.sql
 		BikesLastTimeUsed.sql = BikesLastTimeUsed.sql
 		ClassifyingTrianglesLengths.sql = ClassifyingTrianglesLengths.sql
+		ClassPerformance.sql = ClassPerformance.sql
 		ConcatenateNameProfession.sql = ConcatenateNameProfession.sql
 		ConsecutiveAvailableSeats.sql = ConsecutiveAvailableSeats.sql
 		ConvertDateFormat.sql = ConvertDateFormat.sql
@@ -87,6 +88,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaseQueries", "DataBase
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.QueueStack", "LeetCode.QueueStack\LeetCode.QueueStack.csproj", "{0D068D36-E7E4-4751-A1BD-BC5F5D926565}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.String", "LeetCode.String\LeetCode.String.csproj", "{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +120,10 @@ Global
 		{0D068D36-E7E4-4751-A1BD-BC5F5D926565}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D068D36-E7E4-4751-A1BD-BC5F5D926565}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D068D36-E7E4-4751-A1BD-BC5F5D926565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
