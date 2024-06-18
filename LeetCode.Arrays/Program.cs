@@ -21,8 +21,8 @@ public class Program
 		//foreach (var matrix in newMatrix) Console.WriteLine(matrix);
 		//ArrayInsertions.InserEndArray();
 		//ArrayInsertions.InsertSrtarArray();
-		int[] arr1 = { 1, 2, 3, 0, 0, 0 };
-		int[] arr2 = { 2, 5, 6 };
+		int[] arr1 = { 2, 6, 4 };
+		int[] arr2 = { 9, 7, 5 };
 		int m = 3, n = 3;
 		int[] nums = { 1, 2, 3, 4 };
 		int k = 4;
@@ -70,7 +70,7 @@ public class Program
 		//int result = ArrayExercise3.CountMatches(items, ruleKey, ruleValue);
 		//Console.WriteLine(ArrayExercise3.Interpret(command));
 		//string result = TruncateSentence.TruncateSentenceExce(s,k);
-		Console.WriteLine(DifferenceBetweenElementSum.DifferenceOfSum(nums));
+		Console.WriteLine(FindIntegerAddedArrayI.AddInteger(arr1, arr2));
 
 
 	}
