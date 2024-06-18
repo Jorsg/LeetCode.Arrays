@@ -15,14 +15,17 @@ public class Program
 		string[] words2 = { "abcddefg" };
 		char x = 'a';
 		string s = "(1+(2*3)+((8)/4))+1";
-		int num = 8;
+		int num = 20;
 		string key = "the quick brown fox jumps over the lazy dog", message = "vkbs bs t suepuv";
 
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
-		
-       // Console.WriteLine(.MaxDepth(s));	
+		int result1 = FibonaciSequence.Fib(num);
+		for (int i = 0; i < result1; i++)
+		{
+			Console.WriteLine(i);
+		}
 		
 	}
 
