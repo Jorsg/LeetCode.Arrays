@@ -17,15 +17,18 @@ public class Program
 		string s = "(1+(2*3)+((8)/4))+1";
 		int num = 20;
 		string key = "the quick brown fox jumps over the lazy dog", message = "vkbs bs t suepuv";
+		int[] arr = {9,7,6,5,2,8,6,3,1,2 };
+		char[] s1 = { 'h', 'e', 'l', 'l', 'o' };
 
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
-		int result1 = FibonaciSequence.Fib(num);
-		for (int i = 0; i < result1; i++)
-		{
-			Console.WriteLine(i);
-		}
+		ReverseStringLeetCode.Reserve(arr);
+		//int result1 = FibonaciSequence.Fib(num);
+		//for (int i = 0; i < result1; i++)
+		//{
+		//	Console.WriteLine(i);
+		//}
 		
 	}
 
