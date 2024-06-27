@@ -24,7 +24,7 @@ public class Program
 		int[] arr1 = { 2, 6, 4 };
 		int[] arr2 = { 9, 7, 5 };
 		int m = 3, n = 3;
-		int[] nums = { 1, 2, 3, 4 };
+		int[] nums = { 3, 6, 9 };
 		int k = 4;
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
@@ -70,7 +70,8 @@ public class Program
 		//int result = ArrayExercise3.CountMatches(items, ruleKey, ruleValue);
 		//Console.WriteLine(ArrayExercise3.Interpret(command));
 		//string result = TruncateSentence.TruncateSentenceExce(s,k);
-		Console.WriteLine(FindIntegerAddedArrayI.AddInteger(arr1, arr2));
+		//Console.WriteLine(FindIntegerAddedArrayI.AddInteger(arr1, arr2));
+		Console.WriteLine(FindMinimumOperationsMakeAllElementsDivisibleThree.MinimumOperations(nums));
 
 
 	}
