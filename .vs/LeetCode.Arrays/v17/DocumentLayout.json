@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\findintegeraddedarrayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\findintegeraddedarrayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\fibonacisequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\fibonacisequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\findminimumoperationsmakeallelementsdivisiblethree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\findminimumoperationsmakeallelementsdivisiblethree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\findintegeraddedarrayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\findintegeraddedarrayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\reversestringleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\reversestringleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\minoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\minoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\findfirstpalindromicstringarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\findfirstpalindromicstringarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\numeroconsecutivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\numeroconsecutivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D068D36-E7E4-4751-A1BD-BC5F5D926565}|LeetCode.QueueStack\\LeetCode.QueueStack.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.queuestack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D068D36-E7E4-4751-A1BD-BC5F5D926565}|LeetCode.QueueStack\\LeetCode.QueueStack.csproj|solutionrelative:leetcode.queuestack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\scoreofstringleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\scoreofstringleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,118 +50,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode.Arrays\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\Program.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs*",
+              "RelativeToolTip": "LeetCode.Arrays\\Program.cs*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T01:43:42.595Z",
+              "WhenOpened": "2024-06-27T00:35:17.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "FindMinimumOperationsMakeAllElementsDivisibleThree.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\FindMinimumOperationsMakeAllElementsDivisibleThree.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\FindMinimumOperationsMakeAllElementsDivisibleThree.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\FindMinimumOperationsMakeAllElementsDivisibleThree.cs",
+              "RelativeToolTip": "LeetCode.Arrays\\FindMinimumOperationsMakeAllElementsDivisibleThree.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:03:55.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FindIntegerAddedArrayI.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\FindIntegerAddedArrayI.cs",
               "RelativeDocumentMoniker": "LeetCode.Arrays\\FindIntegerAddedArrayI.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\FindIntegerAddedArrayI.cs*",
-              "RelativeToolTip": "LeetCode.Arrays\\FindIntegerAddedArrayI.cs*",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\FindIntegerAddedArrayI.cs",
+              "RelativeToolTip": "LeetCode.Arrays\\FindIntegerAddedArrayI.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T01:39:49.105Z",
+              "WhenOpened": "2024-06-26T23:56:04.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\Program.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs",
               "RelativeToolTip": "LeetCode.ArrayString\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:38:06.718Z",
+              "WhenOpened": "2024-06-26T00:24:48.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FibonaciSequence.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\FibonaciSequence.cs",
-              "RelativeDocumentMoniker": "LeetCode.ArrayString\\FibonaciSequence.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\FibonaciSequence.cs",
-              "RelativeToolTip": "LeetCode.ArrayString\\FibonaciSequence.cs",
+              "DocumentIndex": 3,
+              "Title": "ReverseStringLeetCode.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ReverseStringLeetCode.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\ReverseStringLeetCode.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ReverseStringLeetCode.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\ReverseStringLeetCode.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:34:53.73Z",
+              "WhenOpened": "2024-06-26T00:20:17.26Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MinOperations.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MinOperations.cs",
-              "RelativeDocumentMoniker": "LeetCode.Arrays\\MinOperations.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MinOperations.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\MinOperations.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T02:36:17.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.QueueStack\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode.QueueStack\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.QueueStack\\Program.cs",
-              "RelativeToolTip": "LeetCode.QueueStack\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T02:34:40.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode.String\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
-              "RelativeToolTip": "LeetCode.String\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T01:41:48.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NumeroConsecutivo.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\NumeroConsecutivo.cs",
-              "RelativeDocumentMoniker": "LeetCode.ArrayString\\NumeroConsecutivo.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\NumeroConsecutivo.cs",
-              "RelativeToolTip": "LeetCode.ArrayString\\NumeroConsecutivo.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:52:15.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FindFirstPalindromicStringArray.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\FindFirstPalindromicStringArray.cs",
-              "RelativeDocumentMoniker": "LeetCode.String\\FindFirstPalindromicStringArray.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\FindFirstPalindromicStringArray.cs",
-              "RelativeToolTip": "LeetCode.String\\FindFirstPalindromicStringArray.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:52:09.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ScoreofStringLeetCode.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\ScoreofStringLeetCode.cs",
-              "RelativeDocumentMoniker": "LeetCode.String\\ScoreofStringLeetCode.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\ScoreofStringLeetCode.cs",
-              "RelativeToolTip": "LeetCode.String\\ScoreofStringLeetCode.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:52:06.298Z"
             }
           ]
         }
