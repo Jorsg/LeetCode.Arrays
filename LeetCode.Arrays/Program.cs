@@ -71,7 +71,8 @@ public class Program
 		//Console.WriteLine(ArrayExercise3.Interpret(command));
 		//string result = TruncateSentence.TruncateSentenceExce(s,k);
 		//Console.WriteLine(FindIntegerAddedArrayI.AddInteger(arr1, arr2));
-		Console.WriteLine(FindMinimumOperationsMakeAllElementsDivisibleThree.MinimumOperations(nums));
+		//Console.WriteLine(FindMinimumOperationsMakeAllElementsDivisibleThree.MinimumOperations(nums));
+		Console.WriteLine(Factorial(5));
 
 
 	}
@@ -92,6 +93,24 @@ public class Program
 			len = len / 1024;
 		}
 		return $"{len:0.##} {sizes[order]}";
+	}
+
+	private static int Factorial(int n)
+	{
+		int result = 1;
+		if (n == 0) return 1;
+		for (int i = 1; i <= n; i++)
+		{
+			result *= i;
+		}
+		return result;
+
+		//while (n > 0)
+		//{
+		//	result *= n;
+		//	n--;
+		//}
+		//return result;
 	}
 
 }
