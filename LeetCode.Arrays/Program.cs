@@ -41,7 +41,8 @@ public class Program
 
 		string command = "G()(al)";
 		string s = "Hello how are you Contestant";
-
+		//int[][] grid = { new int[] { 9, 9, 8, 1 }, new int[] { 5, 6, 2, 6 }, new int[] { 8, 2, 6, 4 }, new int[] { 6, 2, 2, 2 }};
+		int[][] grid = { new int[] { 1, 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1, 1 }, new int[] { 1, 1, 2, 1, 1 }, new int[] {1, 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1, 1 } };
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
 		//Console.WriteLine(ArrayDelete.RemoveDuplicatesII(nums));
@@ -71,8 +72,10 @@ public class Program
 		//Console.WriteLine(ArrayExercise3.Interpret(command));
 		//string result = TruncateSentence.TruncateSentenceExce(s,k);
 		//Console.WriteLine(FindIntegerAddedArrayI.AddInteger(arr1, arr2));
-		Console.WriteLine(FindMinimumOperationsMakeAllElementsDivisibleThree.MinimumOperations(nums));
-
+		//Console.WriteLine(FindMinimumOperationsMakeAllElementsDivisibleThree.MinimumOperations(nums));
+		//Console.WriteLine(Factorial(5));
+		int[][] result = LargestLocalValuesMatrix.LargestLocal(grid);
+		PrintMatrix(result);
 
 	}
 
@@ -92,6 +95,36 @@ public class Program
 			len = len / 1024;
 		}
 		return $"{len:0.##} {sizes[order]}";
+	}
+
+	private static int Factorial(int n)
+	{
+		int result = 1;
+		if (n == 0) return 1;
+		for (int i = 1; i <= n; i++)
+		{
+			result *= i;
+		}
+		return result;
+
+		//while (n > 0)
+		//{
+		//	result *= n;
+		//	n--;
+		//}
+		//return result;
+	}
+
+	private static void PrintMatrix(int[][] matrix)
+	{
+		for (int i = 0; i < matrix.Length; i++)
+		{
+			for (int j = 0; j < matrix[i].Length; j++)
+			{
+				Console.Write(matrix[i][j] + " ");
+			}
+			Console.WriteLine();
+		}
 	}
 
 }
