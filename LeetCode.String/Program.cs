@@ -8,7 +8,8 @@ internal class Program
 		long intialMemory = GC.GetTotalMemory(true);
 
 		var s = "hello";
-		Console.WriteLine(ScoreofStringLeetCode.ScoreOfString(s));
+		//Console.WriteLine(ScoreofStringLeetCode.ScoreOfString(s));
+		Console.WriteLine(PermutationDifferenceTwoStrings.FindPermutationDifference("abc", "bac"));
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
