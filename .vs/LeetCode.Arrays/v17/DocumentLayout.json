@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\grouppeoplegivengroupsizebelongto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\grouppeoplegivengroupsizebelongto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\permutationdifferencetwostrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\permutationdifferencetwostrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\Program.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs*",
+              "RelativeToolTip": "LeetCode.Arrays\\Program.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwFUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:27:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupPeopleGivenGroupSizeBelongTo.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\GroupPeopleGivenGroupSizeBelongTo.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\GroupPeopleGivenGroupSizeBelongTo.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\GroupPeopleGivenGroupSizeBelongTo.cs",
+              "RelativeToolTip": "LeetCode.Arrays\\GroupPeopleGivenGroupSizeBelongTo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:23:39.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LongestSubstringWithoutRepeatingCharacters.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
               "RelativeDocumentMoniker": "LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
@@ -50,12 +84,11 @@
               "RelativeToolTip": "LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T23:12:02.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T23:12:02.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IsomorphicStrings.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\IsomorphicStrings.cs",
               "RelativeDocumentMoniker": "LeetCode.HashTable\\IsomorphicStrings.cs",
@@ -63,12 +96,11 @@
               "RelativeToolTip": "LeetCode.HashTable\\IsomorphicStrings.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T23:10:29.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T23:10:29.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode.String\\Program.cs",
@@ -76,18 +108,17 @@
               "RelativeToolTip": "LeetCode.String\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T22:56:25.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T22:56:25.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PermutationDifferenceTwoStrings.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\PermutationDifferenceTwoStrings.cs",
               "RelativeDocumentMoniker": "LeetCode.String\\PermutationDifferenceTwoStrings.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\PermutationDifferenceTwoStrings.cs*",
-              "RelativeToolTip": "LeetCode.String\\PermutationDifferenceTwoStrings.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\PermutationDifferenceTwoStrings.cs",
+              "RelativeToolTip": "LeetCode.String\\PermutationDifferenceTwoStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T22:54:55.623Z",
               "EditorCaption": ""
