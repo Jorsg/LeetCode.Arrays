@@ -41,8 +41,10 @@ public class Program
 
 		string command = "G()(al)";
 		string s = "Hello how are you Contestant";
+		int[] groupSizes = { 3, 3, 3, 3, 3, 1, 3 };
+
 		//int[][] grid = { new int[] { 9, 9, 8, 1 }, new int[] { 5, 6, 2, 6 }, new int[] { 8, 2, 6, 4 }, new int[] { 6, 2, 2, 2 }};
-		int[][] grid = { new int[] { 1, 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1, 1 }, new int[] { 1, 1, 2, 1, 1 }, new int[] {1, 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1, 1 } };
+		int[][] grid = { new int[] { 1, 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1, 1 }, new int[] { 1, 1, 2, 1, 1 }, new int[] { 1, 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1, 1 } };
 		//ArrayInsertions.Merge(arr1, m, arr2, n);
 		//Console.WriteLine(ArrayDelete.RemoveElement(nums, val));
 		//Console.WriteLine(ArrayDelete.RemoveDuplicatesII(nums));
@@ -74,8 +76,15 @@ public class Program
 		//Console.WriteLine(FindIntegerAddedArrayI.AddInteger(arr1, arr2));
 		//Console.WriteLine(FindMinimumOperationsMakeAllElementsDivisibleThree.MinimumOperations(nums));
 		//Console.WriteLine(Factorial(5));
-		int[][] result = LargestLocalValuesMatrix.LargestLocal(grid);
-		PrintMatrix(result);
+		//int[][] result = LargestLocalValuesMatrix.LargestLocal(grid);
+		//PrintMatrix(result);
+		IList<IList<int>> result = GroupPeopleGivenGroupSizeBelongTo.GroupThePeople(groupSizes);
+        foreach (var item in result)
+		{
+			Console.Write("[");
+			Console.Write(string.Join(",", item));
+			Console.Write("]");
+		}
 
 	}
 
