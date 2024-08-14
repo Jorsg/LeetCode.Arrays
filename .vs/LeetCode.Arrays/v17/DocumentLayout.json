@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\urlify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\urlify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\findfirstpalindromicstringarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\findfirstpalindromicstringarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\checkpermutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\checkpermutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\uniquecharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\uniquecharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\quickfinduf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\quickfinduf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +50,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindFirstPalindromicStringArray.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\FindFirstPalindromicStringArray.cs",
+              "RelativeDocumentMoniker": "LeetCode.String\\FindFirstPalindromicStringArray.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\FindFirstPalindromicStringArray.cs",
+              "RelativeToolTip": "LeetCode.String\\FindFirstPalindromicStringArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:46:16.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode.String\\Program.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs*",
+              "RelativeToolTip": "LeetCode.String\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:44:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urlify.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Urlify.cs",
+              "RelativeDocumentMoniker": "LeetCode.String\\Urlify.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Urlify.cs",
+              "RelativeToolTip": "LeetCode.String\\Urlify.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:34:14.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckPermutation.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\CheckPermutation.cs",
+              "RelativeDocumentMoniker": "LeetCode.String\\CheckPermutation.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\CheckPermutation.cs",
+              "RelativeToolTip": "LeetCode.String\\CheckPermutation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:05:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniqueCharacters.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\UniqueCharacters.cs",
+              "RelativeDocumentMoniker": "LeetCode.String\\UniqueCharacters.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\UniqueCharacters.cs",
+              "RelativeToolTip": "LeetCode.String\\UniqueCharacters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:49:45.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "QuickFindUF.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\QuickFindUF.cs",
               "RelativeDocumentMoniker": "LeetCode.String\\QuickFindUF.cs",
@@ -38,8 +122,7 @@
               "RelativeToolTip": "LeetCode.String\\QuickFindUF.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T23:59:09.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T23:59:09.241Z"
             }
           ]
         }

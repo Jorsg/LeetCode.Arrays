@@ -8,8 +8,17 @@ internal class Program
 		long intialMemory = GC.GetTotalMemory(true);
 
 		var s = "hello";
+		char[] s1 = { 'h', 'e', 'l', 'l', 'o' };
+		char[] str = new char[1000];
+		string s2 = "Mr Jhon Smith";
+		int trueLength = s2.Length;
+		for (int i = 0; i < s2.Length; i++)
+		{
+			str[i] = s2[i];
+		}
 		//Console.WriteLine(ScoreofStringLeetCode.ScoreOfString(s));
-		Console.WriteLine(PermutationDifferenceTwoStrings.FindPermutationDifference("abc", "bac"));
+		//Console.WriteLine(PermutationDifferenceTwoStrings.FindPermutationDifference("abc", "bac"));
+		Console.WriteLine(Urlify.ReplaceSpaces(str, trueLength));
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
