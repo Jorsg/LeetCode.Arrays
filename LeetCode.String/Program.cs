@@ -12,6 +12,8 @@ internal class Program
 		char[] str = new char[1000];
 		string s2 = "Mr Jhon Smith";
 		string sentence = "Tact Coa";
+		string ss1 = "pale";
+		string ss2 = "ple";
 		int trueLength = s2.Length;
 		for (int i = 0; i < s2.Length; i++)
 		{
@@ -20,7 +22,8 @@ internal class Program
 		//Console.WriteLine(ScoreofStringLeetCode.ScoreOfString(s));
 		//Console.WriteLine(PermutationDifferenceTwoStrings.FindPermutationDifference("abc", "bac"));
 		//Console.WriteLine(Urlify.ReplaceSpaces(str, trueLength));
-		Console.WriteLine(PalindromePermutation.IsPermutationOfPalindrome(sentence));
+		//Console.WriteLine(PalindromePermutation.IsPermutationOfPalindrome(sentence));
+		Console.WriteLine(OneAway.OneEditAway(ss1, ss2));
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
