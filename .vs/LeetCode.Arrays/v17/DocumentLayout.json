@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\arrayexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\arrayexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\oneaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\oneaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +44,32 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\Program.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs",
+              "RelativeToolTip": "LeetCode.Arrays\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:01:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayExercises.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\ArrayExercises.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\ArrayExercises.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\ArrayExercises.cs*",
+              "RelativeToolTip": "LeetCode.Arrays\\ArrayExercises.cs*",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAB8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:47:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode.String\\Program.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
@@ -47,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OneAway.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\OneAway.cs",
               "RelativeDocumentMoniker": "LeetCode.String\\OneAway.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\OneAway.cs",
               "RelativeToolTip": "LeetCode.String\\OneAway.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T23:47:00.426Z",
               "EditorCaption": ""

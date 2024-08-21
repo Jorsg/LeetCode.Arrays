@@ -277,5 +277,19 @@ namespace LeetCode.Arrays
 
 			return result;
 		}
+
+
+		public static int[] RunningSum(int[] nums)
+		{
+			int[] array = new int[nums.Length];
+			int sum = 0;
+            for (int i = 0; i < nums.Length; i++)
+            {
+				sum += nums[i];
+				array[i] = sum;
+            }
+
+            return array;
+		}
 	}
 }

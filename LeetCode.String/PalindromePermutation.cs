@@ -8,6 +8,12 @@ namespace LeetCode.String
 {
 	public static class PalindromePermutation
 	{
+		// 1.4 Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome. A palindrome is a word or phrase that is the same
+		// forwards and backwards. A permutation is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words. You can ignore casing
+		// and no-letter characters.
+		// EXAMPLE
+		// input: Tact Coa
+		// Output: True(permutation: "taco cat", "atco cta")	
 		public static bool IsPermutationOfPalindrome(string sentence)
 		{
 			int[] table = BuildFrequencyTable(sentence);
@@ -52,7 +58,7 @@ namespace LeetCode.String
 				if (x != -1)
 					table[x]++;
 			}
-			return table;
+return table;
 		}
 
 	}
