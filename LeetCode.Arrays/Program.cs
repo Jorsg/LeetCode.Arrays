@@ -24,7 +24,7 @@ public class Program
 		int[] arr1 = { 2, 6, 4 };
 		int[] arr2 = { 9, 7, 5 };
 		int m = 3, n = 3;
-		int[] nums = { 3, 6, 9 };
+		int[] nums = { 1, 2, 3, 4 };
 		int k = 4;
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
@@ -78,13 +78,16 @@ public class Program
 		//Console.WriteLine(Factorial(5));
 		//int[][] result = LargestLocalValuesMatrix.LargestLocal(grid);
 		//PrintMatrix(result);
-		IList<IList<int>> result = GroupPeopleGivenGroupSizeBelongTo.GroupThePeople(groupSizes);
-        foreach (var item in result)
-		{
-			Console.Write("[");
-			Console.Write(string.Join(",", item));
-			Console.Write("]");
-		}
+		//IList<IList<int>> result = GroupPeopleGivenGroupSizeBelongTo.GroupThePeople(groupSizes);
+  //      foreach (var item in result)
+		//{
+		//	Console.Write("[");
+		//	Console.Write(string.Join(",", item));
+		//	Console.Write("]");
+		//}
+
+		int[] result = ArrayExercises.RunningSum(nums);
+		foreach (int i in result) Console.WriteLine(i);
 
 	}
 
