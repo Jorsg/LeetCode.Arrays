@@ -7,7 +7,7 @@ internal class Program
 	{
 		long intialMemory = GC.GetTotalMemory(true);
 
-		var s = "hello";
+		var s = "aabccccaaa";
 		char[] s1 = { 'h', 'e', 'l', 'l', 'o' };
 		char[] str = new char[1000];
 		string s2 = "Mr Jhon Smith";
@@ -23,7 +23,7 @@ internal class Program
 		//Console.WriteLine(PermutationDifferenceTwoStrings.FindPermutationDifference("abc", "bac"));
 		//Console.WriteLine(Urlify.ReplaceSpaces(str, trueLength));
 		//Console.WriteLine(PalindromePermutation.IsPermutationOfPalindrome(sentence));
-		Console.WriteLine(OneAway.OneEditAway(ss1, ss2));
+		Console.WriteLine(StringCompression.Compressed(s));
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
