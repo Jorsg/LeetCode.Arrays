@@ -5,8 +5,8 @@ public class Program
 	private static void Main(string[] args)
 	{
 		//Console.WriteLine("Hello, World!");
-		int[] nums = { 1, 2, 2, 4 };
-		int[] nums2 = { 2, 2 };
+		int[] nums1 = { 2,3,2};
+		int[] nums2 = { 1, 2 };
 		string keyboard = "abcdefghijklmnopqrstuvwxyz";
 		string word = "cba";
 		string s = "bbbbb";
@@ -15,8 +15,12 @@ public class Program
 		//int[] result = SetMismatch.FindErrorNums(nums);
 		//foreach (var item in result) Console.WriteLine(item);        
 		//Console.WriteLine(Single_Row_Keyboard.CalculateTime(keyboard, word));
-		Console.WriteLine(LongestSubstringWithoutRepeatingCharacters.LengthOfLongestSubstring(s));
-    }
+		//Console.WriteLine(LongestSubstringWithoutRepeatingCharacters.LengthOfLongestSubstring(s));
+		//Console.WriteLine(FindNumberGoodPairsI.NumberOfPairs(nums, nums2, 2));
+		int[] result = FindCommonElementsBetweenTwoArrays.FindIntersectionValues(nums1, nums2);
+		foreach (var item in result) Console.WriteLine(item);
+
+	}
 
 	private static long MemoryUsed(long intialMemory, long finalMemory)
 	{
