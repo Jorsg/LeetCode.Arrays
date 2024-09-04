@@ -19,19 +19,20 @@ public class Program
 		string key = "the quick brown fox jumps over the lazy dog", message = "vkbs bs t suepuv";
 		int[] arr = {9,7,6,5,2,8,6,3,1,2 };
 		char[] s1 = { 'h', 'e', 'l', 'l', 'o' };
-		int[,] matrix = new int[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+		int[,] matrix = new int[,] { { 1, 2, 8 }, { 4, 5, 6 }, { 7, 10, 9 } };
 
 		//Console.WriteLine(FindWordsContainingCharacter.FindWordsContaining(words, x));
 		int result = 3 + 1 * 5 / 2;
 		//Console.WriteLine(TwoStringArraysEquivalent.ArrayStringsAreEqual(words, words2));
 		//ReverseStringLeetCode.Reserve(arr);
-		Console.WriteLine(RotateMatrix.RotateMatrix90Degree(matrix));
+		//Console.WriteLine(RotateMatrix.RotateMatrix90Degree(matrix));
 		//int result1 = FibonaciSequence.Fib(num);
 		//for (int i = 0; i < result1; i++)
 		//{
 		//	Console.WriteLine(i);
 		//}
-		
+		Console.WriteLine(SetZeroMatrix.ZeroMatrix(matrix));
+
 	}
 
 	private static long MemoryUsed(long intialMemory, long finalMemory)
