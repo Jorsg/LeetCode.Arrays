@@ -41,13 +41,17 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SetZeroMatrix.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\SetZeroMatrix.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\SetZeroMatrix.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\SetZeroMatrix.cs*",
-              "RelativeToolTip": "LeetCode.ArrayString\\SetZeroMatrix.cs*",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\SetZeroMatrix.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\SetZeroMatrix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T02:20:03.179Z",
@@ -59,16 +63,12 @@
               "Title": "FirstBadVersion.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\FirstBadVersion.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\FirstBadVersion.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\FirstBadVersion.cs*",
-              "RelativeToolTip": "LeetCode.ArrayString\\FirstBadVersion.cs*",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\FirstBadVersion.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\FirstBadVersion.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T02:42:24.861Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\Program.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\Program.cs*",
               "RelativeToolTip": "LeetCode.ArrayString\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T01:36:35.472Z",
               "EditorCaption": ""
