@@ -9,7 +9,8 @@ public class Program
 		int[] nums2 = { 1, 2 };
 		string keyboard = "abcdefghijklmnopqrstuvwxyz";
 		string word = "cba";
-		string s = "bbbbb";
+		string s = "rat";
+		string t = "cat";
 		//bool result = ContainsDuplicate.ContainsDuplicateExcer(nums);
 		//int result = SingleNumber.SingleNumberExcer(nums);
 		//int[] result = SetMismatch.FindErrorNums(nums);
@@ -17,8 +18,9 @@ public class Program
 		//Console.WriteLine(Single_Row_Keyboard.CalculateTime(keyboard, word));
 		//Console.WriteLine(LongestSubstringWithoutRepeatingCharacters.LengthOfLongestSubstring(s));
 		//Console.WriteLine(FindNumberGoodPairsI.NumberOfPairs(nums, nums2, 2));
-		int[] result = FindCommonElementsBetweenTwoArrays.FindIntersectionValues(nums1, nums2);
-		foreach (var item in result) Console.WriteLine(item);
+		//int[] result = FindCommonElementsBetweenTwoArrays.FindIntersectionValues(nums1, nums2);
+		//foreach (var item in result) Console.WriteLine(item);
+		Console.WriteLine(ValidAnagram.IsAnagram(s,t));
 
 	}
 
