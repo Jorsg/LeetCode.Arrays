@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\summaryrangesleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\summaryrangesleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\validanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\validanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\isomorphicstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\isomorphicstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\loggerratelimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,34 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\miniindexsumtwolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\miniindexsumtwolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\setmismatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\setmismatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\singlenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\singlenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\single-row-keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\single-row-keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\twosumiiidatastructuredesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\twosumiiidatastructuredesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\validsudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\validsudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,46 +49,33 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SummaryRangesLeetCode.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\SummaryRangesLeetCode.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\SummaryRangesLeetCode.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\SummaryRangesLeetCode.cs",
+              "RelativeToolTip": "LeetCode.Arrays\\SummaryRangesLeetCode.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:18:25.675Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\Program.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T01:15:09.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ValidAnagram.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\ValidAnagram.cs",
               "RelativeDocumentMoniker": "LeetCode.HashTable\\ValidAnagram.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\ValidAnagram.cs*",
-              "RelativeToolTip": "LeetCode.HashTable\\ValidAnagram.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\ValidAnagram.cs",
+              "RelativeToolTip": "LeetCode.HashTable\\ValidAnagram.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T01:11:07.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IsomorphicStrings.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\IsomorphicStrings.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\IsomorphicStrings.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\IsomorphicStrings.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\IsomorphicStrings.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:41:07.975Z",
               "EditorCaption": ""
             },
             {
@@ -129,8 +88,7 @@
               "RelativeToolTip": "LeetCode.HashTable\\LoggerRateLimiter.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:41:04.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T00:41:04.424Z"
             },
             {
               "$type": "Document",
@@ -142,8 +100,7 @@
               "RelativeToolTip": "LeetCode.HashTable\\LongestSubstringWithoutRepeatingCharacters.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:40:27.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T00:40:27.37Z"
             },
             {
               "$type": "Document",
@@ -155,12 +112,11 @@
               "RelativeToolTip": "LeetCode.HashTable\\MiniIndexSumTwoList.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:40:21.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T00:40:21.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MyHashMap.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\MyHashMap.cs",
               "RelativeDocumentMoniker": "LeetCode.HashTable\\MyHashMap.cs",
@@ -168,86 +124,7 @@
               "RelativeToolTip": "LeetCode.HashTable\\MyHashMap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:40:18.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyHashSet.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\MyHashSet.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\MyHashSet.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\MyHashSet.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\MyHashSet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:40:14.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SetMismatch.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\SetMismatch.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\SetMismatch.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\SetMismatch.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\SetMismatch.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:40:09.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SingleNumber.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\SingleNumber.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\SingleNumber.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\SingleNumber.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\SingleNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:40:06.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Single-Row-Keyboard.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\Single-Row-Keyboard.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\Single-Row-Keyboard.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\Single-Row-Keyboard.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\Single-Row-Keyboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:39:55.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TwoSumIIIDatastructuredesign.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\TwoSumIIIDatastructuredesign.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\TwoSumIIIDatastructuredesign.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\TwoSumIIIDatastructuredesign.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\TwoSumIIIDatastructuredesign.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:39:51.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ValidSudoku.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\ValidSudoku.cs",
-              "RelativeDocumentMoniker": "LeetCode.HashTable\\ValidSudoku.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\ValidSudoku.cs",
-              "RelativeToolTip": "LeetCode.HashTable\\ValidSudoku.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:34:22.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T00:40:18.259Z"
             }
           ]
         }

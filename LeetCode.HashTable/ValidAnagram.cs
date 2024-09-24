@@ -8,6 +8,17 @@ namespace LeetCode.HashTable
 {
 	public class ValidAnagram
 	{
+		//242. Valid Anagram
+		//Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+		//Example 1:
+		//Input: s = "anagram", t = "nagaram"
+		//Output: true
+
+		//Example 2:
+		//Input: s = "rat", t = "car"
+		//Output: false
+
 		public static bool IsAnagram(string s, string t)
 		{
 			if(s.Length != t.Length) return false;
@@ -24,7 +35,7 @@ namespace LeetCode.HashTable
 			{
 				if (map.ContainsKey(t[i]))
 					if (map[t[i]] > 0)
-						map[t[i]]--;
+						map[t[i]]--; 
 					else
 						return false;
 				else
