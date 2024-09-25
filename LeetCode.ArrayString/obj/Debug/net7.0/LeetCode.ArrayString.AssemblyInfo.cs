@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ArrayString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e54cc6c342f714b1e33e8a9b0225abd39226c0e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+277a0f58ad818ada229028d3aa5b983fba4794bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ArrayString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ArrayString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
