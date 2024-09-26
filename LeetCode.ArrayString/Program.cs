@@ -31,7 +31,8 @@ public class Program
 		//{
 		//	Console.WriteLine(i);
 		//}
-		Console.WriteLine(SetZeroMatrix.ZeroMatrix(matrix));
+		//Console.WriteLine(SetZeroMatrix.ZeroMatrix(matrix));
+		Console.WriteLine(StringRotation.isSubString("waterbottle", "erbottlewat"));
 
 	}
 
