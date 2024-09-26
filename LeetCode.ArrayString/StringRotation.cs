@@ -10,24 +10,13 @@ namespace LeetCode.ArrayString
 	{
 		public static bool isSubString(string s1, string s2)
 		{
-			bool isSubString = false;
-
-			char[] s1Array = s1.ToCharArray();
-			char[] s2Array = s2.ToCharArray();
-			for (int i = 0; i < s1Array.Length; i++)
+			if (s1.Length != s2.Length)
 			{
-				for (int j = 0; j < s2Array.Length; j++)
-				{
-					if (s1Array[i] == s2Array[j])
-					{
-						isSubString = true;
-						break;
-					}
-				}
-
-
+				return false;
 			}
-			return isSubString;
+			string s1s1 = s1 + s1;
+			return s1s1.Contains(s2);
+
 		}
 
 	}
