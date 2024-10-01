@@ -7,6 +7,7 @@ public class Program
 		//Console.WriteLine("Hello, World!");
 		int[] nums1 = { 2,3,2};
 		int[] nums2 = { 1, 2 };
+		int[] nums = { 1, 2, 2, 3, 1, 4, 2 };
 		string keyboard = "abcdefghijklmnopqrstuvwxyz";
 		string word = "cba";
 		string s = "rat";
@@ -20,7 +21,8 @@ public class Program
 		//Console.WriteLine(FindNumberGoodPairsI.NumberOfPairs(nums, nums2, 2));
 		//int[] result = FindCommonElementsBetweenTwoArrays.FindIntersectionValues(nums1, nums2);
 		//foreach (var item in result) Console.WriteLine(item);
-		Console.WriteLine(ValidAnagram.IsAnagram(s,t));
+		//Console.WriteLine(ValidAnagram.IsAnagram(s,t));
+		Console.WriteLine(DegreeArray697LeetCode.FindShortestSubArray(nums));
 
 	}
 
