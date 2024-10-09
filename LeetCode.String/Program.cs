@@ -23,7 +23,12 @@ internal class Program
 		//Console.WriteLine(PermutationDifferenceTwoStrings.FindPermutationDifference("abc", "bac"));
 		//Console.WriteLine(Urlify.ReplaceSpaces(str, trueLength));
 		//Console.WriteLine(PalindromePermutation.IsPermutationOfPalindrome(sentence));
-		Console.WriteLine(StringCompression.Compressed(s));
+		//Console.WriteLine(StringCompression.Compressed(s));
+		char[] result = ReverseString344LeetCode.ReverseString(s1);
+		foreach (var item in result)
+		{
+			Console.WriteLine(string.Join(" ", item));
+		}
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
