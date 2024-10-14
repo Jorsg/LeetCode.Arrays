@@ -21,7 +21,7 @@ public class Program
 		//foreach (var matrix in newMatrix) Console.WriteLine(matrix);
 		//ArrayInsertions.InserEndArray();
 		//ArrayInsertions.InsertSrtarArray();
-		int[] arr1 = { 2, 6, 4 };
+		int[] arr1 = { 4,6,3,10,5,1,0 };
 		int[] arr2 = { 9, 7, 5 };
 		int m = 3, n = 3;
 		int[] nums = { 1, 2, 3, 4 };
@@ -86,8 +86,9 @@ public class Program
 		//	Console.Write("]");
 		//}
 
-		int[] result = ArrayExercises.RunningSum(nums);
-		foreach (int i in result) Console.WriteLine(i);
+		//int[] result = ArrayExercises.RunningSum(nums);
+		//foreach (int i in result) Console.WriteLine(i);
+		CalPromdVarDesEFOV.CalPromdVarDesv(arr1);
 
 	}
 
