@@ -4,6 +4,7 @@ public class Program
 {
 	private static void Main(string[] args)
 	{
+		long intialMemory = GC.GetTotalMemory(true);
 		DVD[] dvdCollection = new DVD[3];
 
 		dvdCollection[0] = new DVD("Pelicula 1", 2000, "Director 1");
@@ -79,7 +80,7 @@ public class Program
 		//int[][] result = LargestLocalValuesMatrix.LargestLocal(grid);
 		//PrintMatrix(result);
 		//IList<IList<int>> result = GroupPeopleGivenGroupSizeBelongTo.GroupThePeople(groupSizes);
-  //      foreach (var item in result)
+		//      foreach (var item in result)
 		//{
 		//	Console.Write("[");
 		//	Console.Write(string.Join(",", item));
@@ -88,7 +89,11 @@ public class Program
 
 		//int[] result = ArrayExercises.RunningSum(nums);
 		//foreach (int i in result) Console.WriteLine(i);
-		CalPromdVarDesEFOV.CalPromdVarDesv(arr1);
+		//CalPromdVarDesEFOV.CalPromdVarDesv(arr1);
+		PalindromeArray.palindromeArray(arr1);
+		long finalMemory = GC.GetTotalMemory(true);
+		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
+		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
 
 	}
 

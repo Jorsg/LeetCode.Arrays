@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode.LinkedList
 {
-	public class PalindromeLinkedList
+	public static class PalindromeLinkedList
 	{
 
 		//234. Palindrome Linked List
@@ -15,7 +15,7 @@ namespace LeetCode.LinkedList
 		
 		//Input: head = [1,2,2,1]
 		//Output: true
-		public bool IsPalindrome(ListNode head)
+		public static bool IsPalindrome(ListNode head)
 		{
 
 			//Runtime: 218 ms
