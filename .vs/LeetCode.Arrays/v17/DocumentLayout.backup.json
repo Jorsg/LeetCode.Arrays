@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\palindromearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\palindromearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E48425-A23F-4CC9-AD7C-21F44D33D050}|LeetCode.LinkedList\\LeetCode.LinkedList.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E48425-A23F-4CC9-AD7C-21F44D33D050}|LeetCode.LinkedList\\LeetCode.LinkedList.csproj|solutionrelative:leetcode.linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E48425-A23F-4CC9-AD7C-21F44D33D050}|LeetCode.LinkedList\\LeetCode.LinkedList.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.linkedlist\\palindromelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E48425-A23F-4CC9-AD7C-21F44D33D050}|LeetCode.LinkedList\\LeetCode.LinkedList.csproj|solutionrelative:leetcode.linkedlist\\palindromelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E48425-A23F-4CC9-AD7C-21F44D33D050}|LeetCode.LinkedList\\LeetCode.LinkedList.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E48425-A23F-4CC9-AD7C-21F44D33D050}|LeetCode.LinkedList\\LeetCode.LinkedList.csproj|solutionrelative:leetcode.linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,80 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReverseLinkedList.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.LinkedList\\ReverseLinkedList.cs",
-              "RelativeDocumentMoniker": "LeetCode.LinkedList\\ReverseLinkedList.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.LinkedList\\ReverseLinkedList.cs",
-              "RelativeToolTip": "LeetCode.LinkedList\\ReverseLinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MissingNumber.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MissingNumber.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\MissingNumber.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MissingNumber.cs*",
+              "RelativeToolTip": "LeetCode.Arrays\\MissingNumber.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T01:43:52.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PalindromeLinkedList.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.LinkedList\\PalindromeLinkedList.cs",
-              "RelativeDocumentMoniker": "LeetCode.LinkedList\\PalindromeLinkedList.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.LinkedList\\PalindromeLinkedList.cs",
-              "RelativeToolTip": "LeetCode.LinkedList\\PalindromeLinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T01:37:45.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.LinkedList\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode.LinkedList\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.LinkedList\\Program.cs",
-              "RelativeToolTip": "LeetCode.LinkedList\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T01:37:13.901Z",
+              "WhenOpened": "2025-03-25T20:33:39.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PalindromeArray.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\PalindromeArray.cs",
-              "RelativeDocumentMoniker": "LeetCode.Arrays\\PalindromeArray.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\PalindromeArray.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\PalindromeArray.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T01:31:57.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode.Arrays\\Program.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Program.cs",
               "RelativeToolTip": "LeetCode.Arrays\\Program.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAF0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T01:30:27.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCode.String\\Program.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\Program.cs",
-              "RelativeToolTip": "LeetCode.String\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T01:29:03.173Z",
               "EditorCaption": ""
             }
           ]

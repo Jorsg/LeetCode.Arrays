@@ -22,10 +22,10 @@ public class Program
 		//foreach (var matrix in newMatrix) Console.WriteLine(matrix);
 		//ArrayInsertions.InserEndArray();
 		//ArrayInsertions.InsertSrtarArray();
-		int[] arr1 = { 4,6,3,10,5,1,0 };
-		int[] arr2 = { 9, 7, 5 };
+		int[] arr1 = { 9, 6, 4, 2, 3, 5, 7, 0, 1 };
+		int[] arr2 = { 8, 7, 5 };
 		int m = 3, n = 3;
-		int[] nums = { 1, 2, 3, 4 };
+		int[] nums = { 3, 0, 1 };
 		int k = 4;
 		int val = 3;
 		int[][] nums1 = { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } };
@@ -90,7 +90,8 @@ public class Program
 		//int[] result = ArrayExercises.RunningSum(nums);
 		//foreach (int i in result) Console.WriteLine(i);
 		//CalPromdVarDesEFOV.CalPromdVarDesv(arr1);
-		PalindromeArray.palindromeArray(arr1);
+		//PalindromeArray.palindromeArray(arr1);
+		Console.WriteLine(MissingNumber.MissingNumberSolution(arr1));
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
