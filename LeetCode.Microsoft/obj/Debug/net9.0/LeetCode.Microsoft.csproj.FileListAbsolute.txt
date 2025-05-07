@@ -1,0 +1,15 @@
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\bin\Debug\net9.0\LeetCode.Microsoft.exe
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\bin\Debug\net9.0\LeetCode.Microsoft.deps.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\bin\Debug\net9.0\LeetCode.Microsoft.runtimeconfig.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\bin\Debug\net9.0\LeetCode.Microsoft.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\bin\Debug\net9.0\LeetCode.Microsoft.pdb
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.AssemblyInfoInputs.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.AssemblyInfo.cs
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.csproj.CoreCompileInputs.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.sourcelink.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\refint\LeetCode.Microsoft.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.pdb
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\LeetCode.Microsoft.genruntimeconfig.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.Microsoft\obj\Debug\net9.0\ref\LeetCode.Microsoft.dll

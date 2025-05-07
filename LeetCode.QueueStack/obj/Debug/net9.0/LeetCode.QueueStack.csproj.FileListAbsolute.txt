@@ -1,0 +1,15 @@
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\bin\Debug\net9.0\LeetCode.QueueStack.exe
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\bin\Debug\net9.0\LeetCode.QueueStack.deps.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\bin\Debug\net9.0\LeetCode.QueueStack.runtimeconfig.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\bin\Debug\net9.0\LeetCode.QueueStack.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\bin\Debug\net9.0\LeetCode.QueueStack.pdb
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.AssemblyInfoInputs.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.AssemblyInfo.cs
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.csproj.CoreCompileInputs.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.sourcelink.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\refint\LeetCode.QueueStack.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.pdb
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\LeetCode.QueueStack.genruntimeconfig.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.QueueStack\obj\Debug\net9.0\ref\LeetCode.QueueStack.dll

@@ -15,6 +15,7 @@ internal class Program
 		string ss1 = "pale";
 		string ss2 = "ple";
 		int trueLength = s2.Length;
+		int numbers = 10;
 		for (int i = 0; i < s2.Length; i++)
 		{
 			str[i] = s2[i];
@@ -24,14 +25,16 @@ internal class Program
 		//Console.WriteLine(Urlify.ReplaceSpaces(str, trueLength));
 		//Console.WriteLine(PalindromePermutation.IsPermutationOfPalindrome(sentence));
 		//Console.WriteLine(StringCompression.Compressed(s));
-		char[] result = ReverseString344LeetCode.ReverseString(s1);
-		foreach (var item in result)
-		{
-			Console.WriteLine(string.Join(" ", item));
-		}
+		//char[] result = ReverseString344LeetCode.ReverseString(s1);
+		Generic_Algorithms.Cuadratic_Sum(numbers);
+		//foreach (var item in result)
+		//{
+		//	Console.WriteLine(string.Join(" ", item));
+		//}
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");
+
 
 	}
 
