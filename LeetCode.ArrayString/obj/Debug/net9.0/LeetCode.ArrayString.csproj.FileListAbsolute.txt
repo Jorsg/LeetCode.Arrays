@@ -1,0 +1,15 @@
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\bin\Debug\net9.0\LeetCode.ArrayString.exe
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\bin\Debug\net9.0\LeetCode.ArrayString.deps.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\bin\Debug\net9.0\LeetCode.ArrayString.runtimeconfig.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\bin\Debug\net9.0\LeetCode.ArrayString.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\bin\Debug\net9.0\LeetCode.ArrayString.pdb
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.AssemblyInfoInputs.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.AssemblyInfo.cs
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.csproj.CoreCompileInputs.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.sourcelink.json
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\refint\LeetCode.ArrayString.dll
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.pdb
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\LeetCode.ArrayString.genruntimeconfig.cache
+D:\Repos\repos\LeetCode.Arrays\LeetCode.ArrayString\obj\Debug\net9.0\ref\LeetCode.ArrayString.dll

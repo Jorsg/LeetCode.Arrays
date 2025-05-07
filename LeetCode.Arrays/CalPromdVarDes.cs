@@ -10,6 +10,9 @@ namespace LeetCode.Arrays
 	{
 		public static void CalPromdVarDesv(int[] dato)
 		{
+			//55. Prof. Efraín Oviedo Book.
+			//Calcular el promedio, varianza y desviación estándar de un conjunto de datos.
+			//Ejemplo: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] => Promedio: 5.5, Varianza: 9.166666666666666, Desviación Estándar: 3.0276503540974917
 			int sum = 0, sum2 = 0, n = 0, promd = 0, varianza = 0, desv = 0;
 
 			while (0 != dato[n])
