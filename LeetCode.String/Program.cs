@@ -26,11 +26,13 @@ internal class Program
 		//Console.WriteLine(PalindromePermutation.IsPermutationOfPalindrome(sentence));
 		//Console.WriteLine(StringCompression.Compressed(s));
 		//char[] result = ReverseString344LeetCode.ReverseString(s1);
-		Generic_Algorithms.Cuadratic_Sum(numbers);
-		//foreach (var item in result)
-		//{
-		//	Console.WriteLine(string.Join(" ", item));
-		//}
+		//Generic_Algorithms.Cuadratic_Sum(numbers);
+		int[] nums = { 2, 3, 5, 1, 6 };
+		var result = RunningSumOf1dArrayDesingGuru.RunningSum(nums);
+		foreach (var item in result)
+		{
+			Console.WriteLine(item);
+		}
 		long finalMemory = GC.GetTotalMemory(true);
 		long memoryUsed = MemoryUsed(intialMemory, finalMemory);
 		Console.WriteLine($"Memory: {ToSize(memoryUsed)}");

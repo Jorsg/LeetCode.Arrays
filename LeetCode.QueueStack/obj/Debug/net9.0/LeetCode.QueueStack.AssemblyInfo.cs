@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.QueueStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dffb72f09ace254a0b03390a878b6f8ba3da1c26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d61fe8381565a2222cca88d6ea8194ded407422d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.QueueStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.QueueStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
