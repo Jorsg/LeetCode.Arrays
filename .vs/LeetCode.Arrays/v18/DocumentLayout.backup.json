@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\twosumiitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\twosumiitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\twosummii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\twosummii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.hashtable\\firstuniquecharacterstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817DB11F-3FB6-4E61-9A01-01C58FA67C0A}|LeetCode.HashTable\\LeetCode.HashTable.csproj|solutionrelative:leetcode.hashtable\\firstuniquecharacterstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\firstuniquecharacterstringtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\firstuniquecharacterstringtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoSumIITest.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\TwoSumIITest.cs",
+              "RelativeDocumentMoniker": "TestArrayString\\TwoSumIITest.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\TwoSumIITest.cs",
+              "RelativeToolTip": "TestArrayString\\TwoSumIITest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:33:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwoSummII.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\TwoSummII.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\TwoSummII.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\TwoSummII.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\TwoSummII.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:43:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstUniqueCharacterStringTest.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\FirstUniqueCharacterStringTest.cs",
+              "RelativeDocumentMoniker": "TestArrayString\\FirstUniqueCharacterStringTest.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\FirstUniqueCharacterStringTest.cs",
+              "RelativeToolTip": "TestArrayString\\FirstUniqueCharacterStringTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:20:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstUniqueCharacterString.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "RelativeDocumentMoniker": "LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "RelativeToolTip": "LeetCode.HashTable\\FirstUniqueCharacterString.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:58:53.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -43,4 +43,26 @@ namespace LeetCode.ArrayString
 			return result;
 		}
 	}
+
+
+	public class TwoSum_1
+	{
+		public int[] TwoSum(int[] nums, int targer)
+		{
+			if (nums == null || nums.Length < 2) return null;
+
+			Dictionary<int, int> map = new Dictionary<int, int>();
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (map.ContainsKey(nums[i])) return new int[] { map[nums[i]], i };
+				else
+				{
+					map[targer - nums[i]] = i;
+                }
+            }
+			return null;
+        }
+	}
+
+	
 }
