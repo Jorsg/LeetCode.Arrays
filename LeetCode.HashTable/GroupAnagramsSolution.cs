@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode.HashTable
 {
-	internal static class GroupAnagramsSolution
+	public static class GroupAnagramsSolution
 	{
 		//49. Group Anagrams
 		//Given an array of strings strs, group the anagrams together. You can return the answer in any order.

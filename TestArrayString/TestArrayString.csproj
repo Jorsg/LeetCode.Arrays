@@ -1,0 +1,21 @@
+﻿<Project Sdk="MSTest.Sdk/4.0.0-preview.25465.3">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseVSTest>true</UseVSTest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LeetCode.ArrayString\LeetCode.ArrayString.csproj" />
+    <ProjectReference Include="..\LeetCode.Arrays\LeetCode.Arrays.csproj" />
+    <ProjectReference Include="..\LeetCode.HashTable\LeetCode.HashTable.csproj" />
+    <ProjectReference Include="..\LeetCode.LinkedList\LeetCode.LinkedList.csproj" />
+    <ProjectReference Include="..\LeetCode.Microsoft\LeetCode.Microsoft.csproj" />
+    <ProjectReference Include="..\LeetCode.QueueStack\LeetCode.QueueStack.csproj" />
+    <ProjectReference Include="..\LeetCode.String\LeetCode.String.csproj" />
+  </ItemGroup>
+
+</Project>
