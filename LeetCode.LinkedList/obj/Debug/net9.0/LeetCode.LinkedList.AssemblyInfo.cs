@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94d005accfc64070c6a2f75d45d6dcd4430be2d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47dd10548093822c07217e9863d2d9c470d9fee0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
