@@ -8,7 +8,7 @@ namespace TestString
     /// ValidParenthesesLeetCode implementation. Each test method verifies specific scenarios to ensure correct
     /// functionality.</remarks>
     [TestClass]
-    public sealed class Test1
+    public sealed class ValidParenthesesTest
     {
         [TestMethod]
         public void IsValid_Test()
