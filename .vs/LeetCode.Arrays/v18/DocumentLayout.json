@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A0AD063-F852-4455-B9FF-474A8F1DC516}|TestString\\TestString.csproj|d:\\repos\\repos\\leetcode.arrays\\teststring\\validparenthesestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0AD063-F852-4455-B9FF-474A8F1DC516}|TestString\\TestString.csproj|solutionrelative:teststring\\validparenthesestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\longestcommonprefixtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\longestcommonprefixtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0AD063-F852-4455-B9FF-474A8F1DC516}|TestString\\TestString.csproj|d:\\repos\\repos\\leetcode.arrays\\teststring\\romantointtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0AD063-F852-4455-B9FF-474A8F1DC516}|TestString\\TestString.csproj|solutionrelative:teststring\\romantointtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\romantointexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\romantointexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\mergesortedarraytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\mergesortedarraytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\mergesortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\mergesortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\arraypracticexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\arraypracticexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\plusoneexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\plusoneexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\plusonetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\plusonetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\movezeroestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\movezeroestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\movezeroesexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\movezeroesexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,61 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MergeSortedArrayTest.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\MergeSortedArrayTest.cs",
-              "RelativeDocumentMoniker": "TestArrayString\\MergeSortedArrayTest.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\MergeSortedArrayTest.cs",
-              "RelativeToolTip": "TestArrayString\\MergeSortedArrayTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T17:11:51.92Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValidParenthesesTest.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestString\\ValidParenthesesTest.cs",
-              "RelativeDocumentMoniker": "TestString\\ValidParenthesesTest.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestString\\ValidParenthesesTest.cs",
-              "RelativeToolTip": "TestString\\ValidParenthesesTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T21:15:20.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RomanToIntTest.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestString\\RomanToIntTest.cs",
-              "RelativeDocumentMoniker": "TestString\\RomanToIntTest.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestString\\RomanToIntTest.cs",
-              "RelativeToolTip": "TestString\\RomanToIntTest.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T21:12:21.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RomanToIntExercise.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\RomanToIntExercise.cs",
-              "RelativeDocumentMoniker": "LeetCode.String\\RomanToIntExercise.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\RomanToIntExercise.cs",
-              "RelativeToolTip": "LeetCode.String\\RomanToIntExercise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T21:10:38.1Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -135,93 +46,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MergeSortedArray.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MergeSortedArray.cs",
-              "RelativeDocumentMoniker": "LeetCode.Arrays\\MergeSortedArray.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MergeSortedArray.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\MergeSortedArray.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LongestCommonPrefixTest.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\LongestCommonPrefixTest.cs",
+              "RelativeDocumentMoniker": "TestArrayString\\LongestCommonPrefixTest.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\LongestCommonPrefixTest.cs",
+              "RelativeToolTip": "TestArrayString\\LongestCommonPrefixTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T16:59:00.643Z",
+              "WhenOpened": "2025-12-01T23:05:53.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArrayPracticExercise.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\ArrayPracticExercise.cs",
-              "RelativeDocumentMoniker": "LeetCode.Arrays\\ArrayPracticExercise.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\ArrayPracticExercise.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\ArrayPracticExercise.cs",
-              "ViewState": "AgIAAO4AAAAAAAAAAAAzwA8BAAAeAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LongestCommonPrefix.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\LongestCommonPrefix.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\LongestCommonPrefix.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\LongestCommonPrefix.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\LongestCommonPrefix.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T21:00:12.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Arrays.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Arrays.cs",
-              "RelativeDocumentMoniker": "LeetCode.Arrays\\Arrays.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\Arrays.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\Arrays.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T21:00:03.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlusOneTest.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\PlusOneTest.cs",
-              "RelativeDocumentMoniker": "TestArrayString\\PlusOneTest.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\PlusOneTest.cs",
-              "RelativeToolTip": "TestArrayString\\PlusOneTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:40:02.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlusOneExercise.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\PlusOneExercise.cs",
-              "RelativeDocumentMoniker": "LeetCode.Arrays\\PlusOneExercise.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\PlusOneExercise.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\PlusOneExercise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:35:26.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MoveZeroesTest.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\MoveZeroesTest.cs",
-              "RelativeDocumentMoniker": "TestArrayString\\MoveZeroesTest.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\MoveZeroesTest.cs",
-              "RelativeToolTip": "TestArrayString\\MoveZeroesTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:40:14.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MoveZeroesExercise.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MoveZeroesExercise.cs",
-              "RelativeDocumentMoniker": "LeetCode.Arrays\\MoveZeroesExercise.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\MoveZeroesExercise.cs",
-              "RelativeToolTip": "LeetCode.Arrays\\MoveZeroesExercise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:32:04.852Z",
+              "WhenOpened": "2025-12-01T22:25:41.412Z",
               "EditorCaption": ""
             }
           ]
