@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\longestcommonprefixtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\longestcommonprefixtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\besttimebuysellstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\besttimebuysellstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LongestCommonPrefixTest.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\LongestCommonPrefixTest.cs",
-              "RelativeDocumentMoniker": "TestArrayString\\LongestCommonPrefixTest.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\LongestCommonPrefixTest.cs",
-              "RelativeToolTip": "TestArrayString\\LongestCommonPrefixTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BestTimeBuySellStock.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\BestTimeBuySellStock.cs",
+              "RelativeDocumentMoniker": "TestArrayString\\BestTimeBuySellStock.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\BestTimeBuySellStock.cs",
+              "RelativeToolTip": "TestArrayString\\BestTimeBuySellStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T23:05:53.919Z",
+              "WhenOpened": "2026-01-16T22:19:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotateArray.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\RotateArray.cs",
+              "RelativeDocumentMoniker": "TestArrayString\\RotateArray.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\RotateArray.cs*",
+              "RelativeToolTip": "TestArrayString\\RotateArray.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:18:33.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LongestCommonPrefix.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\LongestCommonPrefix.cs",
-              "RelativeDocumentMoniker": "LeetCode.ArrayString\\LongestCommonPrefix.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\LongestCommonPrefix.cs",
-              "RelativeToolTip": "LeetCode.ArrayString\\LongestCommonPrefix.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Title": "RotateArray.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\RotateArray.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\RotateArray.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\RotateArray.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\RotateArray.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T22:25:41.412Z",
+              "WhenOpened": "2026-01-16T21:45:52.219Z",
               "EditorCaption": ""
             }
           ]
