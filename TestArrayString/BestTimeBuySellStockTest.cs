@@ -1,7 +1,7 @@
 namespace TestArrayString;
 
 [TestClass]
-public class BestTimeBuySellStock
+public class BestTimeBuySellStockTest
 {
     [TestMethod]
     public void Test_BestTimeBuySellStock()
