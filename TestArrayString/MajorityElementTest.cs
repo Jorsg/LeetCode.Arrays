@@ -1,7 +1,7 @@
 namespace TestArrayString;
 
 [TestClass]
-public class MajorityElement
+public class MajorityElementTest
 {
     [TestMethod]
     public void Test_MajorityElement()
