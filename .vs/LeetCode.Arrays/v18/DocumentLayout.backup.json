@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\reversestringcodetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\reversestringcodetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A0AD063-F852-4455-B9FF-474A8F1DC516}|TestString\\TestString.csproj|d:\\repos\\repos\\leetcode.arrays\\teststring\\validatepalindrometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0AD063-F852-4455-B9FF-474A8F1DC516}|TestString\\TestString.csproj|solutionrelative:teststring\\validatepalindrometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\validatepalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\validatepalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.string\\palindromepermutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5EEC0-1F21-4A0F-B8E3-9835F004FB26}|LeetCode.String\\LeetCode.String.csproj|solutionrelative:leetcode.string\\palindromepermutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arrays\\palindromearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6982AF6A-B66A-4FA6-8949-E3BA64750BBB}|LeetCode.Arrays\\LeetCode.Arrays.csproj|solutionrelative:leetcode.arrays\\palindromearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\reversestringleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\reversestringleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\reversestringcodetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\reversestringcodetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\besttimebuysellstocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +82,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidatePalindromeTest.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestString\\ValidatePalindromeTest.cs",
+              "RelativeDocumentMoniker": "TestString\\ValidatePalindromeTest.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestString\\ValidatePalindromeTest.cs*",
+              "RelativeToolTip": "TestString\\ValidatePalindromeTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T02:16:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidatePalindrome.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\ValidatePalindrome.cs",
+              "RelativeDocumentMoniker": "LeetCode.String\\ValidatePalindrome.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\ValidatePalindrome.cs",
+              "RelativeToolTip": "LeetCode.String\\ValidatePalindrome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T00:57:02.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PalindromePermutation.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\PalindromePermutation.cs",
+              "RelativeDocumentMoniker": "LeetCode.String\\PalindromePermutation.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.String\\PalindromePermutation.cs",
+              "RelativeToolTip": "LeetCode.String\\PalindromePermutation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T23:02:00.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PalindromeArray.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\PalindromeArray.cs",
+              "RelativeDocumentMoniker": "LeetCode.Arrays\\PalindromeArray.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\PalindromeArray.cs",
+              "RelativeToolTip": "LeetCode.Arrays\\PalindromeArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T23:01:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MajorityElementTest.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\MajorityElementTest.cs",
               "RelativeDocumentMoniker": "TestArrayString\\MajorityElementTest.cs",
@@ -74,38 +142,36 @@
               "RelativeToolTip": "TestArrayString\\MajorityElementTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T23:38:30.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T23:38:30.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ReverseStringCodeTest.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\ReverseStringCodeTest.cs",
               "RelativeDocumentMoniker": "TestArrayString\\ReverseStringCodeTest.cs",
-              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\ReverseStringCodeTest.cs*",
-              "RelativeToolTip": "TestArrayString\\ReverseStringCodeTest.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBoAAAAxAAAAAAAAAA==",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\ReverseStringCodeTest.cs",
+              "RelativeToolTip": "TestArrayString\\ReverseStringCodeTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wCkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T23:26:00.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T23:26:00.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ReverseStringLeetCode.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ReverseStringLeetCode.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\ReverseStringLeetCode.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ReverseStringLeetCode.cs",
               "RelativeToolTip": "LeetCode.ArrayString\\ReverseStringLeetCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T23:21:23.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ArrayDeleteTest.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\ArrayDeleteTest.cs",
               "RelativeDocumentMoniker": "TestArrayString\\ArrayDeleteTest.cs",
@@ -117,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BestTimeBuySellStockTest.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\BestTimeBuySellStockTest.cs",
               "RelativeDocumentMoniker": "TestArrayString\\BestTimeBuySellStockTest.cs",
@@ -125,12 +191,11 @@
               "RelativeToolTip": "TestArrayString\\BestTimeBuySellStockTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T22:19:07.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T22:19:07.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RotateArrayTest.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\RotateArrayTest.cs",
               "RelativeDocumentMoniker": "TestArrayString\\RotateArrayTest.cs",
@@ -142,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "RotateArray.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\RotateArray.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\RotateArray.cs",
