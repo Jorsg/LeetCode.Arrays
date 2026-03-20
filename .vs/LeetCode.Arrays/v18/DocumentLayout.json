@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\LeetCode.Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\threesumtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\threesumtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\leetcode.arraystring\\threesumexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4338BE0D-319F-4B2B-A3CF-5BB60E10D3B5}|LeetCode.ArrayString\\LeetCode.ArrayString.csproj|solutionrelative:leetcode.arraystring\\threesumexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|d:\\repos\\repos\\leetcode.arrays\\testarraystring\\removeduplicatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{160D1DBD-8D82-4F66-BB37-AFB18EC3BB98}|TestArrayString\\TestArrayString.csproj|solutionrelative:testarraystring\\removeduplicatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,19 +59,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ThreeSumTest.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\ThreeSumTest.cs",
+              "RelativeDocumentMoniker": "TestArrayString\\ThreeSumTest.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\ThreeSumTest.cs",
+              "RelativeToolTip": "TestArrayString\\ThreeSumTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:11:21.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThreeSumExercise.cs",
+              "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ThreeSumExercise.cs",
+              "RelativeDocumentMoniker": "LeetCode.ArrayString\\ThreeSumExercise.cs",
+              "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\ThreeSumExercise.cs",
+              "RelativeToolTip": "LeetCode.ArrayString\\ThreeSumExercise.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:10:03.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RemoveDuplicateTest.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\RemoveDuplicateTest.cs",
               "RelativeDocumentMoniker": "TestArrayString\\RemoveDuplicateTest.cs",
               "ToolTip": "D:\\Repos\\repos\\LeetCode.Arrays\\TestArrayString\\RemoveDuplicateTest.cs",
               "RelativeToolTip": "TestArrayString\\RemoveDuplicateTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T21:14:37.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RemoveDuplicate.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.Arrays\\RemoveDuplicate.cs",
               "RelativeDocumentMoniker": "LeetCode.Arrays\\RemoveDuplicate.cs",
@@ -76,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TwoSummII.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\LeetCode.Arrays\\LeetCode.ArrayString\\TwoSummII.cs",
               "RelativeDocumentMoniker": "LeetCode.ArrayString\\TwoSummII.cs",
@@ -84,8 +118,7 @@
               "RelativeToolTip": "LeetCode.ArrayString\\TwoSummII.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T21:06:53.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T21:06:53.657Z"
             }
           ]
         },
